@@ -10,6 +10,16 @@
 <h2>Hey 👋, I'm <a href="https://github.com/IshwaranRudhara">Ishwaran</a> <img width="30" alt="prem" src="https://user-images.githubusercontent.com/47528708/184485159-eb187755-3860-4024-84e0-36e3194f9dac.gif"></h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
+
+<!--START_SECTION:waka-->
+
+
+
+
+<!--END_SECTION:waka-->
+
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=IshwaranRudhara&theme=dark&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=000000)](https://git.io/streak-stats)
 ![Ishwaran Github Stats](https://github-readme-stats.vercel.app/api?username=IshwaranRudhara&&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshwaranRudhara&&show_icons=true&theme=radical)
