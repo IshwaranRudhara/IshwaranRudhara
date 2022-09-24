@@ -15,7 +15,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshwaranRudhara&&show_icons=true&theme=radical)
 
 ![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=IshwaranRudhara&theme=gruvbox&margin-w=10&margin-h=15&column=8)
-<br />
+
+
+
+
 <H2>My Routine Since JAN 2021</H2>
 
 ```mermaid
@@ -28,7 +31,7 @@
       ComputerDesk-->Sleep;
       Sleep-->Wake;
 ```
-
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=IshwaranRudhara&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
