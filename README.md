@@ -18,9 +18,9 @@ From: 22 September 2022 - To: 23 September 2022
 
 Total Time: 1 hr 18 mins
 
-HTML       43 mins         >>>>>>>>>>>>>>-----------   55.52 %
-Markdown   31 mins         >>>>>>>>>>---------------   39.60 %
-CSON       3 mins          >------------------------   04.88 %
+HTML       43 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.52 %
+Markdown   31 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.60 %
+CSON       3 mins          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.88 %
 ```
 
 <!--END_SECTION:waka-->
