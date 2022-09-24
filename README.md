@@ -11,6 +11,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
+
+
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -25,11 +28,16 @@ CSON       3 mins          >------------------------   04.88 %
 
 <!--END_SECTION:waka-->
 
+```javascript
+
+
+
+```
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IshwaranRudhara&theme=dark&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=000000)](https://git.io/streak-stats)
 ![Ishwaran Github Stats](https://github-readme-stats.vercel.app/api?username=IshwaranRudhara&&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshwaranRudhara&&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshwaranRudhara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=IshwaranRudhara&theme=gruvbox&margin-w=10&margin-h=15&column=8)
 
