@@ -17,8 +17,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: "all_time"
-          SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_LOC_CHART: "False"
+          SHOW_PROJECTS: false
+          SHOW_LINES_OF_CODE: true
+          SHOW_LOC_CHART: false
           LOCALE: "en"
          
