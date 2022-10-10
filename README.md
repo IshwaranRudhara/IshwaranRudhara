@@ -15,21 +15,21 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,612 Contributions in the Year 2022
+> 🏆 1,614 Contributions in the Year 2022
  > 
 > 📦 824.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 74 Public Repositories 
+> 📜 75 Public Repositories 
  > 
 > 🔑 159 Private Repositories  
  > 
@@ -37,21 +37,21 @@
 
 ```text
 🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
-🌆 Daytime    106 commits    ███████████████░░░░░░░░░░   61.63% 
-🌃 Evening    53 commits     ███████░░░░░░░░░░░░░░░░░░   30.81% 
-🌙 Night      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
+🌆 Daytime    106 commits    ███████████████░░░░░░░░░░   61.27% 
+🌃 Evening    54 commits     ███████░░░░░░░░░░░░░░░░░░   31.21% 
+🌙 Night      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.94%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
-Tuesday      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
+Monday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
+Tuesday      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.78% 
 Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
-Thursday     6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
-Friday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.23% 
-Saturday     22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
-Sunday       110 commits    ████████████████░░░░░░░░░   63.95%
+Thursday     6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47% 
+Friday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.2% 
+Saturday     22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
+Sunday       110 commits    ████████████████░░░░░░░░░   63.58%
 
 ```
 
@@ -89,7 +89,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/10/2022 16:02:17 UTC
+ Last Updated on 10/10/2022 17:24:11 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
