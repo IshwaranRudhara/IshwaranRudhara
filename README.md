@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -29,7 +29,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 75 Public Repositories 
+> 📜 77 Public Repositories 
  > 
 > 🔑 159 Private Repositories  
  > 
@@ -75,8 +75,8 @@ Unknown OS               5 mins              ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   71 repos            ███████████████████░░░░░░   75.53% 
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+Python                   70 repos            ██████████████████░░░░░░░   74.47% 
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.7% 
 JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
 Shell                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
 Dockerfile               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
@@ -89,7 +89,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/10/2022 17:24:11 UTC
+ Last Updated on 10/10/2022 18:13:44 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
