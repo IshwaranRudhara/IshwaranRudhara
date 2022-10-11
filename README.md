@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -25,7 +25,7 @@
 
 > 🏆 1,621 Contributions in the Year 2022
  > 
-> 📦 824.3 kB Used in GitHub's Storage 
+> 📦 824.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -95,7 +95,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2022 18:01:27 UTC
+ Last Updated on 11/10/2022 19:05:27 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
