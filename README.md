@@ -62,16 +62,13 @@ Sunday       110 commits    ███████████████░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               25 mins             █████████████████████░░░░   84.89% 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.56% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -92,7 +89,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2022 19:17:55 UTC
+ Last Updated on 19/10/2022 19:55:10 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
