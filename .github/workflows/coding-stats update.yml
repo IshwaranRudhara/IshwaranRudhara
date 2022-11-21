@@ -21,7 +21,10 @@ jobs:
           SHOW_LINES_OF_CODE: true
           SHOW_LOC_CHART: true
           SHOW_MASKED_TIME: true
+          SHOW_TITLE: true
           LOCALE: "en"
+          SHOW_TOTAL: true
+          
 
 # name: Waka Readme
 

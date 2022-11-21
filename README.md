@@ -113,8 +113,8 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 ```mermaid
   graph TD;
       Wake--> ComputerDesk;
-      ComputerDesk-->DSA;
-      DSA-->ComputerDesk;
+      ComputerDesk-->DataStructures&Algorithm;
+      DataStructures&Algorithm-->ComputerDesk;
       ComputerDesk-->FSD;
       FSD-->ComputerDesk;
       ComputerDesk-->Sleep;
