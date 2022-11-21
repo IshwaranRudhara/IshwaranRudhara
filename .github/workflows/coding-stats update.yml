@@ -1,23 +1,27 @@
-name: Waka Readme
 
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs at every 30 min
-    - cron: "30 * * * *"
 
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: "all_time"
-          SHOW_PROJECTS: false
-          SHOW_LINES_OF_CODE: true
-          SHOW_LOC_CHART: true
-          LOCALE: "en"
+
+
+# name: Waka Readme
+
+# on:
+# workflow_dispatch:
+# schedule:
+# Runs at every 30 min
+#  - cron: "30 * * * *"
+
+#jobs:
+# update-readme:
+#  name: Update this repo's README
+# runs-on: ubuntu-latest
+#steps:
+# - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+#  with:
+#   WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+# BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+#TIME_RANGE: "all_time"
+# SHOW_PROJECTS: false
+# SHOW_LINES_OF_CODE: true
+# SHOW_LOC_CHART: true
+# LOCALE: "en"
