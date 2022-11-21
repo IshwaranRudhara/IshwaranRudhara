@@ -1,6 +1,4 @@
-
 name: Waka Readme
-
 on:
   workflow_dispatch:
   schedule:
@@ -25,7 +23,6 @@ jobs:
           SHOW_MASKED_TIME: true
           LOCALE: "en"
 
-
 # name: Waka Readme
 
 # on:
@@ -49,3 +46,5 @@ jobs:
 # SHOW_LINES_OF_CODE: true
 # SHOW_LOC_CHART: true
 # LOCALE: "en"
+
+# Warning: Unexpected input(s) 'BLOCKS', 'TIME_RANGE', 'SHOW_TIME', 'SHOW_MASKED_TIME', valid inputs are ['entryPoint', 'args', 'GH_TOKEN', 'WAKATIME_API_KEY', 'PUSH_BRANCH_NAME', 'SHOW_OS', 'SHOW_PROJECTS', 'SHOW_EDITORS', 'SHOW_TIMEZONE', 'SHOW_COMMIT', 'SHOW_LANGUAGE', 'SHOW_LINES_OF_CODE', 'SHOW_LANGUAGE_PER_REPO', 'SHOW_LOC_CHART', 'SHOW_DAYS_OF_WEEK', 'SHOW_PROFILE_VIEWS', 'SHOW_SHORT_INFO', 'LOCALE', 'COMMIT_BY_ME', 'IGNORED_REPOS', 'COMMIT_MESSAGE', 'COMMIT_USERNAME', 'COMMIT_EMAIL', 'SHOW_UPDATED_DATE', 'UPDATED_DATE_FORMAT', 'SHOW_TOTAL_CODE_TIME', 'SYMBOL_VERSION']
