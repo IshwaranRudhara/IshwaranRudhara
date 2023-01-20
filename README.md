@@ -94,7 +94,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2023 20:36:19 UTC
+ Last Updated on 20/01/2023 21:38:35 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
