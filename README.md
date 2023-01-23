@@ -15,15 +15,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-234%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 60 Contributions in the Year 2023
+> 🏆 58 Contributions in the Year 2023
  > 
 > 📦 837.3 kB Used in GitHub's Storage 
  > 
@@ -94,7 +94,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2023 17:38:06 UTC
+ Last Updated on 23/01/2023 18:40:37 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
