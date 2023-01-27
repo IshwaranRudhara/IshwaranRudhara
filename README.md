@@ -15,15 +15,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-234%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-235%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 58 Contributions in the Year 2023
+> 🏆 59 Contributions in the Year 2023
  > 
 > 📦 837.3 kB Used in GitHub's Storage 
  > 
@@ -31,7 +31,7 @@
  > 
 > 📜 97 Public Repositories 
  > 
-> 🔑 166 Private Repositories  
+> 🔑 167 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -80,11 +80,11 @@ Windows                  25 hrs 32 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   53 repos            ███████████████░░░░░░░░░░   63.1% 
-HTML                     13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
-JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
-Dockerfile               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
+Python                   52 repos            ███████████████░░░░░░░░░░   62.65% 
+HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
+JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
+Dockerfile               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
 
 ```
 
@@ -94,7 +94,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2023 05:38:37 UTC
+ Last Updated on 27/01/2023 06:43:14 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
