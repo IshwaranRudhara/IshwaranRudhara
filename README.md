@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -23,13 +23,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 73 Contributions in the Year 2023
+> 🏆 74 Contributions in the Year 2023
  > 
 > 📦 857.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 101 Public Repositories 
+> 📜 102 Public Repositories 
  > 
 > 🔑 167 Private Repositories  
  > 
@@ -80,11 +80,11 @@ Windows                  23 hrs 49 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   50 repos            ██████████████░░░░░░░░░░░   58.82% 
-HTML                     15 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-JavaScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
-Dockerfile               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
+Python                   49 repos            ██████████████░░░░░░░░░░░   58.33% 
+HTML                     15 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+JavaScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
+Dockerfile               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
 
 ```
 
@@ -94,7 +94,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2023 13:04:32 UTC
+ Last Updated on 31/01/2023 13:44:08 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
