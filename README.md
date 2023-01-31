@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -94,7 +94,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2023 10:40:27 UTC
+ Last Updated on 31/01/2023 11:37:45 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
