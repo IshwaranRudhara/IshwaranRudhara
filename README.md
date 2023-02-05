@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-297%20Thousand%20lines%20of%20code-blue)
 
@@ -25,7 +25,7 @@
 
 > 🏆 87 Contributions in the Year 2023
  > 
-> 📦 857.4 kB Used in GitHub's Storage 
+> 📦 857.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -62,18 +62,18 @@ Sunday       131 commits    ████████████░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    34 hrs 31 mins      ███████████████████████░░   93.45% 
-HTML                     1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
-JavaScript               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
-CSS                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28% 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
+Other                    33 hrs 23 mins      ███████████████████████░░   92.64% 
+HTML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+CSS                      52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43% 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Browser                  34 hrs 28 mins      ███████████████████████░░   93.33% 
-VS Code                  2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Browser                  33 hrs 22 mins      ███████████████████████░░   92.6% 
+VS Code                  2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.4%
 
 💻 Operating System: 
-Windows                  36 hrs 56 mins      █████████████████████████   100.0%
+Windows                  36 hrs 2 mins       █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +94,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/02/2023 18:37:57 UTC
+ Last Updated on 05/02/2023 19:35:58 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
