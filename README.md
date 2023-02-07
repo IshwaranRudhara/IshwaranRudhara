@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -25,7 +25,7 @@
 
 > 🏆 91 Contributions in the Year 2023
  > 
-> 📦 857.8 kB Used in GitHub's Storage 
+> 📦 857.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,7 +94,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2023 13:39:44 UTC
+ Last Updated on 07/02/2023 14:37:15 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
