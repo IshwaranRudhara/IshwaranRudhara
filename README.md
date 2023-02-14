@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -94,7 +94,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2023 07:36:36 UTC
+ Last Updated on 14/02/2023 08:44:40 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
