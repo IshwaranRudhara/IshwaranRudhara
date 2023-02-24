@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
@@ -90,7 +90,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2023 05:36:29 UTC
+ Last Updated on 24/02/2023 06:43:05 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
