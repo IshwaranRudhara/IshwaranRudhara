@@ -19,7 +19,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-669.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-669.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,7 +90,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2023 06:43:11 UTC
+ Last Updated on 03/03/2023 07:36:10 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
