@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 987.1 kB Used in GitHub's Storage 
+> 📦 987.0 kB Used in GitHub's Storage 
  > 
 > 🏆 150 Contributions in the Year 2023
  > 
@@ -90,7 +90,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2023 05:37:32 UTC
+ Last Updated on 13/03/2023 06:43:20 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
