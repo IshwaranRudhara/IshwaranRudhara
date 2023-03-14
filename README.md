@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-939.1%20thousand%20lines%20of%20code-blue)
 
@@ -60,17 +60,17 @@ Sunday                   24333 commits       ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     3 hrs 5 mins        ████████████████░░░░░░░░░   65.03 % 
-CSS                      1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+HTML                     2 hrs 37 mins       ███████████████████░░░░░░   77.66 % 
+CSS                      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2023 18:51:15 UTC
+ Last Updated on 14/03/2023 19:36:00 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
