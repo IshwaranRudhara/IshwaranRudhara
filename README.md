@@ -15,9 +15,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
@@ -25,7 +25,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 185 Contributions in the Year 2023
+> 🏆 186 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -38,7 +38,7 @@
 ```text
 🌞 Morning                24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 🌆 Daytime                24315 commits       ███████████████████████░░   90.25 % 
-🌃 Evening                706 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+🌃 Evening                707 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 🌙 Night                  1897 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -46,7 +46,7 @@
 ```text
 Monday                   940 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 Tuesday                  379 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Wednesday                146 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Wednesday                147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 Thursday                 285 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Friday                   540 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 Saturday                 318 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
@@ -91,7 +91,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2023 17:40:22 UTC
+ Last Updated on 19/04/2023 18:40:02 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
