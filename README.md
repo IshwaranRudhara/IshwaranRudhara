@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -25,7 +25,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 196 Contributions in the Year 2023
+> 🏆 197 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -76,10 +76,10 @@ Windows                  2 hrs 39 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-HTML                     26 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-JavaScript               21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-PHP                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+HTML                     26 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+JavaScript               21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+PHP                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
@@ -90,7 +90,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2023 17:40:04 UTC
+ Last Updated on 14/05/2023 18:39:31 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
