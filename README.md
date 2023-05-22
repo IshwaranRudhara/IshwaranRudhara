@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,16 +60,15 @@ Sunday                   24334 commits       ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 34 mins        ███████████░░░░░░░░░░░░░░   45.62 % 
-JavaScript               56 mins             ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-CSS                      55 mins             ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+HTML                     1 hr 46 mins        ███████████████░░░░░░░░░░   59.04 % 
+CSS                      39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+JavaScript               34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +88,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2023 18:39:38 UTC
+ Last Updated on 22/05/2023 19:40:31 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
