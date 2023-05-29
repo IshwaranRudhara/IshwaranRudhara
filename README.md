@@ -60,14 +60,13 @@ Sunday                   24334 commits       ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     36 mins             ███████████████░░░░░░░░░░   61.90 % 
-CSS                      22 mins             ██████████░░░░░░░░░░░░░░░   38.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +86,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2023 18:39:56 UTC
+ Last Updated on 29/05/2023 19:39:00 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
