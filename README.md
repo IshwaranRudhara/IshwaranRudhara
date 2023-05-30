@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -25,32 +25,32 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 203 Contributions in the Year 2023
+> 🏆 205 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 117 Public Repositories 
  > 
-> 🔑 174 Private Repositories 
+> 🔑 175 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 🌆 Daytime                24319 commits       ███████████████████████░░   90.22 % 
-🌃 Evening                714 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌃 Evening                715 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 🌙 Night                  1898 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   941 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Tuesday                  381 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Tuesday                  382 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 Wednesday                148 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 Thursday                 286 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Friday                   541 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 Saturday                 324 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Sunday                   24334 commits       ███████████████████████░░   90.28 % 
+Sunday                   24334 commits       ███████████████████████░░   90.27 % 
 ```
 
 
@@ -86,7 +86,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2023 17:39:18 UTC
+ Last Updated on 30/05/2023 18:41:45 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
