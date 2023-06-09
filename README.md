@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
@@ -60,17 +60,16 @@ Sunday                   24337 commits       ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 49 mins        ███████████████░░░░░░░░░░   61.03 % 
-CSS                      59 mins             ████████░░░░░░░░░░░░░░░░░   33.02 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Vue.js                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+HTML                     1 hr 15 mins        ███████████████░░░░░░░░░░   58.06 % 
+CSS                      50 mins             ██████████░░░░░░░░░░░░░░░   39.12 % 
+Vue.js                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +89,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2023 18:39:49 UTC
+ Last Updated on 09/06/2023 20:39:04 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
