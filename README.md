@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 1.1 MB Used in GitHub's Storage 
+> 📦 1.2 MB Used in GitHub's Storage 
  > 
 > 🏆 242 Contributions in the Year 2023
  > 
@@ -89,7 +89,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2023 22:39:56 UTC
+ Last Updated on 17/06/2023 23:37:33 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
