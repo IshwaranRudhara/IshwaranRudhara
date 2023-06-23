@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
@@ -25,7 +25,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 244 Contributions in the Year 2023
+> 🏆 188 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -89,7 +89,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2023 13:45:09 UTC
+ Last Updated on 23/06/2023 14:41:04 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
