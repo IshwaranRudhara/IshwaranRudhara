@@ -8,7 +8,7 @@
 [![wakatime](https://wakatime.com/badge/user/fc738f08-9e9d-4e8b-a6ea-7f547f91629d.svg)](https://wakatime.com/@fc738f08-9e9d-4e8b-a6ea-7f547f91629d)
 
 <h2>Hey 👋, I'm <a href="https://github.com/IshwaranRudhara">Ishwaran</a> <img width="30" alt="prem" src="https://user-images.githubusercontent.com/47528708/184485159-eb187755-3860-4024-84e0-36e3194f9dac.gif"></h2>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/IshwaranRudhara/IshwaranRudhara/blob/master/devcard.svg" width="400" alt="IshwaranRudhara's Dev Card"/></a>
+<a href="#"><img src="https://github.com/IshwaranRudhara/IshwaranRudhara/blob/master/devcard.svg" width="400" alt="IshwaranRudhara's Dev Card"/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
