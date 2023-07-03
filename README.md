@@ -98,7 +98,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 
 
 ```
-
+![DevDaily](https://github.com/IshwaranRudhara/DailyDev/blob/main/devcard.svg)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IshwaranRudhara&theme=dark&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=000000)](https://git.io/streak-stats)
