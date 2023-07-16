@@ -113,6 +113,20 @@ Last Updated on 16/07/2023 17:40:06 UTC
 [![Ishwaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IshwaranRudhara&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![snake gif](https://github.com/IshwaranRudhara/IshwaranRudhara/blob/output/github-contribution-grid-snake.gif)
+
+###STOCK EXCHANGE
+
+![ADANI SIR'S SHARE](https://raw.githubusercontent.com/IshwaranRudhara/adani/c3c73b18e4ef8bb755859ff3bdd9694f681b23a2/github-metrics.svg)
+
+###TIME
+![LIVE TIME](https://raw.githubusercontent.com/IshwaranRudhara/livetime/7aeac41ec153554a7f630ce84ac6a29ce37dfc00/github-metrics.svg)
+###GEOGRAPHERS
+![mASUM](https://raw.githubusercontent.com/IshwaranRudhara/masusam/b6980b8ce5d280d90f171b71c2dcc3af1a256c27/github-metrics.svg)
+![RADAR](https://raw.githubusercontent.com/IshwaranRudhara/radar/e1de1e6380620a79f3b1dd7b73fc9614d3d46002/github-metrics.svg)
+![Lightiniing](https://raw.githubusercontent.com/IshwaranRudhara/currencyexchange/2a555daf655b1989b3b4f9a4b751125cfbd01e35/github-metrics.svg)
+![wEATHER](https://raw.githubusercontent.com/IshwaranRudhara/weather/3fa5737114a0100b1e3fb23c6bc8a99c0eea2bb7/github-metrics.svg)
+
+###CURRENCY EXCHANGE
 ![currencyexchange](https://raw.githubusercontent.com/IshwaranRudhara/currencyexchange/2a555daf655b1989b3b4f9a4b751125cfbd01e35/github-metrics.svg)
 
 <!--
