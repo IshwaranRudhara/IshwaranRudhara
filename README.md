@@ -113,6 +113,7 @@ Last Updated on 16/07/2023 17:40:06 UTC
 [![Ishwaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IshwaranRudhara&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![snake gif](https://github.com/IshwaranRudhara/IshwaranRudhara/blob/output/github-contribution-grid-snake.gif)
+![currencyexchange](https://raw.githubusercontent.com/IshwaranRudhara/currencyexchange/2a555daf655b1989b3b4f9a4b751125cfbd01e35/github-metrics.svg)
 
 <!--
 **IshwaranRudhara/IshwaranRudhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
