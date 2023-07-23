@@ -131,7 +131,7 @@ Last Updated on 23/07/2023 10:39:01 UTC
 ![wEATHER](https://raw.githubusercontent.com/IshwaranRudhara/weather/3fa5737114a0100b1e3fb23c6bc8a99c0eea2bb7/github-metrics.svg)
 
 ##CURRENCY EXCHANGE
-![currencyexchange](https://raw.githubusercontent.com/IshwaranRudhara/currencyexchange/2a555daf655b1989b3b4f9a4b751125cfbd01e35/github-metrics.svg)
+![currencyexchange](https://raw.githubusercontent.com/IshwaranRudhara/currencyexchange/main/github-metrics.svg)
 
 <!--
 **IshwaranRudhara/IshwaranRudhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
