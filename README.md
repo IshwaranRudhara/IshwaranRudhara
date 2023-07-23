@@ -83,7 +83,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/charts/bar_graph.png)
 
 Last Updated on 23/07/2023 10:39:01 UTC
 
