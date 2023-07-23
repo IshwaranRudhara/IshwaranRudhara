@@ -12,82 +12,81 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 1.8 MB Used in GitHub's Storage 
- > 
+> 📦 1.8 MB Used in GitHub's Storage
+>
 > 🏆 302 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 132 Public Repositories 
- > 
-> 🔑 176 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 132 Public Repositories
+>
+> 🔑 176 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-🌆 Daytime                24337 commits       ██████████████████████░░░   89.82 % 
-🌃 Evening                763 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-🌙 Night                  1961 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+🌆 Daytime                24337 commits       ██████████████████████░░░   89.82 %
+🌃 Evening                763 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+🌙 Night                  1961 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   989 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Tuesday                  385 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Wednesday                162 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Thursday                 286 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Friday                   545 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Saturday                 360 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Sunday                   24368 commits       ██████████████████████░░░   89.94 % 
+Monday                   989 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Tuesday                  385 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Wednesday                162 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Thursday                 286 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Friday                   545 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Saturday                 360 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Sunday                   24368 commits       ██████████████████████░░░   89.94 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Markdown                 37 mins             ██████████████░░░░░░░░░░░   56.22 % 
-YAML                     21 mins             ████████░░░░░░░░░░░░░░░░░   32.39 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+💬 Programming Languages:
+Markdown                 37 mins             ██████████████░░░░░░░░░░░   56.22 %
+YAML                     21 mins             ████████░░░░░░░░░░░░░░░░░   32.39 %
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 
-🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  1 hr 6 mins         █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   132 repos           █████████████████░░░░░░░░   66.33 % 
-HTML                     31 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   132 repos           █████████████████░░░░░░░░   66.33 %
+HTML                     31 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
+Last Updated on 23/07/2023 10:39:01 UTC
 
- Last Updated on 23/07/2023 10:39:01 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
@@ -119,19 +118,19 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 
 ![snake gif](https://github.com/IshwaranRudhara/IshwaranRudhara/blob/output/github-contribution-grid-snake.gif)
 
-###STOCK EXCHANGE
+##STOCK EXCHANGE
 
 ![ADANI SIR'S SHARE](https://raw.githubusercontent.com/IshwaranRudhara/adani/c3c73b18e4ef8bb755859ff3bdd9694f681b23a2/github-metrics.svg)
 
-###TIME
+##TIME
 ![LIVE TIME](https://raw.githubusercontent.com/IshwaranRudhara/livetime/main/github-metrics.svg)
-###GEOGRAPHERS
+##GEOGRAPHERS
 ![mASUM](https://raw.githubusercontent.com/IshwaranRudhara/masusam/b6980b8ce5d280d90f171b71c2dcc3af1a256c27/github-metrics.svg)
 ![RADAR](https://raw.githubusercontent.com/IshwaranRudhara/radar/e1de1e6380620a79f3b1dd7b73fc9614d3d46002/github-metrics.svg)
 ![Lightiniing](https://raw.githubusercontent.com/IshwaranRudhara/currencyexchange/2a555daf655b1989b3b4f9a4b751125cfbd01e35/github-metrics.svg)
 ![wEATHER](https://raw.githubusercontent.com/IshwaranRudhara/weather/3fa5737114a0100b1e3fb23c6bc8a99c0eea2bb7/github-metrics.svg)
 
-###CURRENCY EXCHANGE
+##CURRENCY EXCHANGE
 ![currencyexchange](https://raw.githubusercontent.com/IshwaranRudhara/currencyexchange/2a555daf655b1989b3b4f9a4b751125cfbd01e35/github-metrics.svg)
 
 <!--
