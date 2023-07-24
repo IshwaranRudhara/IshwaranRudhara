@@ -10,18 +10,18 @@
 <img align="right" style="width:100%" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 </div>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IshwaranRudhara-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 [![wakatime](https://wakatime.com/badge/user/fc738f08-9e9d-4e8b-a6ea-7f547f91629d.svg)](https://wakatime.com/@fc738f08-9e9d-4e8b-a6ea-7f547f91629d)
 
 <h2>Hey 👋, I'm <a href="https://github.com/IshwaranRudhara">Ishwaran</a> <img width="30" alt="prem" src="https://user-images.githubusercontent.com/47528708/184485159-eb187755-3860-4024-84e0-36e3194f9dac.gif"></h2>
-<a href="#"><img src="https://github.com/IshwaranRudhara/DailyDev/blob/main/devcard.svg" width="400" alt="IshwaranRudhara's Dev Card"/></a>
+
+<!-- DEV DAILY STARTS -->
+
+<!-- <a href="#"><img src="https://github.com/IshwaranRudhara/DailyDev/blob/main/devcard.svg" width="400" alt="IshwaranRudhara's Dev Card"/></a> -->
+
+<!-- DEV DAILY ENDS -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
