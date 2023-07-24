@@ -1,13 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
-<div>
+<div style='width:100%; ' >
 
-<img align="right" src="/assets/gif/Firepc.gif" />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<img align="left" style="width:50%" src="/assets/gif/Firepc.gif" />
+<img align="right" style="width:50%" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 </div>
-
-<img align="right" src="/assets/gif/Firepc.gif" />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IshwaranRudhara-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
@@ -19,82 +21,81 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-166-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 1.9 MB Used in GitHub's Storage 
- > 
+> 📦 1.9 MB Used in GitHub's Storage
+>
 > 🏆 308 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 132 Public Repositories 
- > 
-> 🔑 176 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 132 Public Repositories
+>
+> 🔑 176 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-🌆 Daytime                24347 commits       ██████████████████████░░░   89.82 % 
-🌃 Evening                764 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-🌙 Night                  1961 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+🌆 Daytime                24347 commits       ██████████████████████░░░   89.82 %
+🌃 Evening                764 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+🌙 Night                  1961 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   994 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Tuesday                  385 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Wednesday                162 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Thursday                 286 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Friday                   545 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Saturday                 360 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Sunday                   24374 commits       ██████████████████████░░░   89.92 % 
+Monday                   994 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Tuesday                  385 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Wednesday                162 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Thursday                 286 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Friday                   545 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Saturday                 360 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Sunday                   24374 commits       ██████████████████████░░░   89.92 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Markdown                 56 mins             ████████████████░░░░░░░░░   65.53 % 
-YAML                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+💬 Programming Languages:
+Markdown                 56 mins             ████████████████░░░░░░░░░   65.53 %
+YAML                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.01 %
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 
-🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  1 hr 26 mins        █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  1 hr 26 mins        █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   132 repos           █████████████████░░░░░░░░   66.33 % 
-HTML                     31 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   132 repos           █████████████████░░░░░░░░   66.33 %
+HTML                     31 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
+Last Updated on 24/07/2023 14:40:33 UTC
 
- Last Updated on 24/07/2023 14:40:33 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
