@@ -26,167 +26,81 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2057%20mins-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2053%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-168-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-179-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 1.9 MB Used in GitHub's Storage
->
-> 🏆 310 Contributions in the Year 2023
->
+> 📦 1.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 319 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
->
-> 📜 132 Public Repositories
->
-> 🔑 176 Private Repositories
->
-> **I'm an Early 🐤**
+ > 
+> 📜 132 Public Repositories 
+ > 
+> 🔑 176 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-🌆 Daytime                24347 commits       ██████████████████████░░░   89.80 %
-🌃 Evening                769 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-🌙 Night                  1961 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+🌆 Daytime                24347 commits       ██████████████████████░░░   89.75 % 
+🌃 Evening                770 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+🌙 Night                  1977 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
-
-📅 **I'm Most Productive on Sunday**
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   999 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Tuesday                  385 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Wednesday                162 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Thursday                 286 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Friday                   545 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Saturday                 360 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Sunday                   24374 commits       ██████████████████████░░░   89.90 %
+Monday                   999 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Tuesday                  401 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Wednesday                163 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Thursday                 286 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Friday                   545 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Saturday                 360 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Sunday                   24374 commits       ██████████████████████░░░   89.85 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages:
-Markdown                 56 mins             ████████████████░░░░░░░░░   65.53 %
-YAML                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.01 %
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+💬 Programming Languages: 
+Markdown                 2 hrs 24 mins       ████████████████████████░   95.86 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
-🔥 Editors:
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 %
+🔥 Editors: 
+VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
 
-💻 Operating System:
-Windows                  1 hr 26 mins        █████████████████████████   100.00 %
+💻 Operating System: 
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python**
+**I Mostly Code in Python** 
 
 ```text
-Python                   132 repos           █████████████████░░░░░░░░   66.33 %
-HTML                     31 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python                   132 repos           █████████████████░░░░░░░░   66.33 % 
+HTML                     31 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
--<!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-<br>   
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-  <a href="https://www.raspberrypi.org" target="_blank"rel="noreferrer" > 
-      <img  alt="raspberrypi" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-    </a> 
-         
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  </a>
-     
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="Kotlin" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
-      <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-      <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
-      <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-  </a>
-</div>
-<br>
-<br>
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
-Last Updated on 24/07/2023 18:42:16 UTC
 
+ Last Updated on 26/07/2023 13:40:47 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
