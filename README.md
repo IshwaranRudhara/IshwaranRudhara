@@ -5,10 +5,11 @@
 </div>
 
 <!-- WORK FLOWS  -->
+<div align="center" style="width:100%;">
 
 ![Metrics](/github-metrics.svg)
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
+</div>
 <!-- work flow ends -->
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
