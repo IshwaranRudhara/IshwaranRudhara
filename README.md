@@ -2,14 +2,11 @@
 
 <div align="center">
 
-<a href="https://moon-svg.minung.dev">
-    <img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0" alt="moon.svg" />
-  </a>
-</div>
+<p align="center"><img width="170" alt="moonanimation" src="https://user-images.githubusercontent.com/47528708/220290420-8491cbc0-ac09-4ac0-b4a8-1b638b2df2cf.gif">
 
 <!-- WORK FLOWS  -->
 
-<div  style="width:auto;">
+<div  style="width:100%;">
 
 ![Metrics](/github-metrics.svg)
 
@@ -200,4 +197,7 @@ Here are some ideas to get you started:
 
 # Moon Animation
 
-<p align="center"><img width="170" alt="moonanimation" src="https://user-images.githubusercontent.com/47528708/220290420-8491cbc0-ac09-4ac0-b4a8-1b638b2df2cf.gif">
+ <a href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0" alt="moon.svg" />
+  </a>
+</div>
