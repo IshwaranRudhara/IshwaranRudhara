@@ -121,7 +121,9 @@ Last Updated on 26/07/2023 13:40:47 UTC
 
 ![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=IshwaranRudhara&theme=gruvbox&margin-w=10&margin-h=15&column=8)
 
-<H2>My Routine Since JAN 2021</H2>
+<H2 align="center" style="font-family:Poppins; color:#25b4db;  " >My Routine Since JAN 2021</H2>
+
+<div align="center">
 
 ```mermaid
   graph TD;
@@ -134,7 +136,13 @@ Last Updated on 26/07/2023 13:40:47 UTC
       Sleep-->Wake;
 ```
 
+</div>
+
+<div align="center">
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
+
+</div>
 
 [![Ishwaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IshwaranRudhara&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
