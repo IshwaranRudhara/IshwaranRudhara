@@ -158,7 +158,11 @@ Last Updated on 26/07/2023 15:37:34 UTC
 
 [![Ishwaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IshwaranRudhara&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/IshwaranRudhara/IshwaranRudhara/blob/output/github-contribution-grid-snake.gif)
+<!-- SNAKE GIF! STARTS -->
+
+![snake gif](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/output/github-contribution-grid-snake.svg)
+
+<!-- SNAKE GIF ENDS -->
 
 ##STOCK EXCHANGE
 
