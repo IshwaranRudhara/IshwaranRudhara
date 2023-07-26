@@ -197,6 +197,7 @@ Last Updated on 24/07/2023 18:42:16 UTC
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IshwaranRudhara&theme=dark&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=000000)](https://git.io/streak-stats)
 ![Ishwaran Github Stats](https://github-readme-stats.vercel.app/api?username=IshwaranRudhara&&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshwaranRudhara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=IshwaranRudhara&theme=gruvbox&margin-w=10&margin-h=15&column=8)
