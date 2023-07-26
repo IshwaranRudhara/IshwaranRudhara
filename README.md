@@ -9,24 +9,25 @@
 
 <!-- WORK FLOWS  -->
 
-<div>
-<img align="right" style="width:50%" src="/assets/gif/Firepc.gif" />
-
-<img align="right" style="width:50%" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
-
-<div align="left" style="">
+<div  style="width:auto;">
 
 ![Metrics](/github-metrics.svg)
 
 </div>
-
-</div>
-
 <!-- work flow ends -->
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
+
+<div style='display:block; width:100%; height:100% ' >
+<div>
+<img align="left" style="width:100%" src="/assets/gif/Firepc.gif" />
+</div>
+<div>
+<img align="right" style="width:100%" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+</div>
+</div>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IshwaranRudhara-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
