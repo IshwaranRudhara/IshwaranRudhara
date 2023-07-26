@@ -1,13 +1,104 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
+
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
+
+        .container {
+          --color-main: #5452ee;
+          --color-primary: #e73c7e;
+          --color-secondary: #23a6d5;
+          --color-tertiary: #ffff;
+
+          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-color-scheme: light) {
+          .container {
+            --color-main: #F15BB5;
+            --color-primary: #24b0ef;
+            --color-secondary: #4526f6;
+            --color-tertiary: #f6f645;
+          }
+        }
+
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+      </div>
+    </div>
+
+  </foreignObject>
+</svg>
+
 <div align="center">
+
 <a href="https://moon-svg.minung.dev">
     <img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0" alt="moon.svg" />
   </a>
 </div>
 
 <!-- WORK FLOWS  -->
-<div align="center" style="width:100%;">
+<div style="">
+
+<div>
+
+</div>
+
+<div align="right" style="width:50%;">
 
 ![Metrics](/github-metrics.svg)
+
+</div>
 
 </div>
 <!-- work flow ends -->
@@ -40,81 +131,80 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-219-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 1.9 MB Used in GitHub's Storage 
- > 
+> 📦 1.9 MB Used in GitHub's Storage
+>
 > 🏆 335 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 132 Public Repositories 
- > 
-> 🔑 176 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 132 Public Repositories
+>
+> 🔑 176 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-🌆 Daytime                24347 commits       ██████████████████████░░░   89.70 % 
-🌃 Evening                786 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-🌙 Night                  1977 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+🌆 Daytime                24347 commits       ██████████████████████░░░   89.70 %
+🌃 Evening                786 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+🌙 Night                  1977 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   999 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Tuesday                  401 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Wednesday                179 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Thursday                 286 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Friday                   545 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Saturday                 360 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Sunday                   24374 commits       ██████████████████████░░░   89.80 % 
+Monday                   999 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Tuesday                  401 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Wednesday                179 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Thursday                 286 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Friday                   545 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Saturday                 360 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Sunday                   24374 commits       ██████████████████████░░░   89.80 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Markdown                 2 hrs 24 mins       ████████████████████████░   95.86 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+💬 Programming Languages:
+Markdown                 2 hrs 24 mins       ████████████████████████░   95.86 %
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 
-🔥 Editors: 
-VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  2 hrs 30 mins       █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   132 repos           █████████████████░░░░░░░░   66.33 % 
-HTML                     31 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   132 repos           █████████████████░░░░░░░░   66.33 %
+HTML                     31 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
+Last Updated on 26/07/2023 17:39:36 UTC
 
- Last Updated on 26/07/2023 17:39:36 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
