@@ -65,4 +65,4 @@ jobs:
           plugin_projects_limit: 4
           plugin_rss: yes
           plugin_rss_limit: 10
-          plugin_rss_source: https://www.1tamilmv.zip/index.php?/discover/all.xml/
+          #plugin_rss_source: https://www.1tamilmv.zip/index.php?/discover/all.xml/
