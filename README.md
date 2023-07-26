@@ -1,4 +1,4 @@
-
+<img src="./images/github_cover_banner.jpeg" alt="banner" style="margin: auto;width: auto;" >
 
 <div align="center">
 
