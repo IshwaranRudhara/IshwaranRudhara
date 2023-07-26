@@ -120,7 +120,11 @@ Last Updated on 26/07/2023 15:37:34 UTC
 
 ```
 
-![DevDaily](https://github.com/IshwaranRudhara/DailyDev/blob/main/devcard.svg)
+<!-- daily dev paused -->
+
+<!-- ![DevDaily](https://github.com/IshwaranRudhara/DailyDev/blob/main/devcard.svg) -->
+
+<!-- daily dev paused -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IshwaranRudhara&theme=dark&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=000000)](https://git.io/streak-stats)
 ![Ishwaran Github Stats](https://github-readme-stats.vercel.app/api?username=IshwaranRudhara&&show_icons=true&theme=radical)
