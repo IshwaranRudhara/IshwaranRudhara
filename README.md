@@ -41,9 +41,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-266-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-269-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
@@ -86,17 +86,17 @@ Sunday                   24374 commits       ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 2 mins        ████████████████████░░░░░   79.74 % 
-YAML                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Markdown                 4 hrs 2 mins        ████████████████████░░░░░   79.39 % 
+YAML                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +116,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2023 18:38:50 UTC
+ Last Updated on 28/07/2023 19:38:10 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
