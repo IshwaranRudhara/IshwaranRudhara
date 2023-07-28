@@ -1,4 +1,7 @@
 <img src="./images/github_cover_banner.jpeg" alt="banner" style="margin: auto;width: auto;" >
+<div>
+
+</div>
 
 <div align="center">
 
@@ -41,82 +44,81 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-266-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 2.0 MB Used in GitHub's Storage 
- > 
+> 📦 2.0 MB Used in GitHub's Storage
+>
 > 🏆 349 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 132 Public Repositories 
- > 
-> 🔑 176 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 132 Public Repositories
+>
+> 🔑 176 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-🌆 Daytime                24347 commits       ██████████████████████░░░   89.55 % 
-🌃 Evening                811 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-🌙 Night                  1997 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+🌆 Daytime                24347 commits       ██████████████████████░░░   89.55 %
+🌃 Evening                811 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+🌙 Night                  1997 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   999 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Tuesday                  401 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Wednesday                202 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Thursday                 308 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Friday                   545 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Saturday                 360 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Sunday                   24374 commits       ██████████████████████░░░   89.65 % 
+Monday                   999 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Tuesday                  401 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Wednesday                202 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Thursday                 308 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Friday                   545 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Saturday                 360 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Sunday                   24374 commits       ██████████████████████░░░   89.65 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Markdown                 4 hrs 2 mins        ████████████████████░░░░░   79.74 % 
-YAML                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+💬 Programming Languages:
+Markdown                 4 hrs 2 mins        ████████████████████░░░░░   79.74 %
+YAML                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.24 %
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 
-🔥 Editors: 
-VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  5 hrs 4 mins        █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  5 hrs 4 mins        █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  5 hrs 4 mins        █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   132 repos           █████████████████░░░░░░░░   66.33 % 
-HTML                     31 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   132 repos           █████████████████░░░░░░░░   66.33 %
+HTML                     31 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
+Last Updated on 28/07/2023 18:38:50 UTC
 
- Last Updated on 28/07/2023 18:38:50 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
@@ -198,7 +200,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thalapathy Vijay Complete Filmography  &lpar;1984 - 2023&rpar; 69 Movies Tamil HD / DVDRip / AP / AYN / AMZN /SNXT / AHA [4k &amp; 1080p &amp; 720p &amp; 480p] 1TB [Drive &amp; Terabox] ESub](https://www.1tamilmv.zip/index.php?/forums/topic/148252-thalapathy-vijay-complete-filmography-1984-2023-69-movies-tamil-hd-dvdrip-ap-ayn-amzn-snxt-aha-4k-1080p-720p-480p-1tb-drive-terabox-esub/&do=findComment&comment=351000)
+
+- [Thalapathy Vijay Complete Filmography &lpar;1984 - 2023&rpar; 69 Movies Tamil HD / DVDRip / AP / AYN / AMZN /SNXT / AHA [4k &amp; 1080p &amp; 720p &amp; 480p] 1TB [Drive &amp; Terabox] ESub](https://www.1tamilmv.zip/index.php?/forums/topic/148252-thalapathy-vijay-complete-filmography-1984-2023-69-movies-tamil-hd-dvdrip-ap-ayn-amzn-snxt-aha-4k-1080p-720p-480p-1tb-drive-terabox-esub/&do=findComment&comment=351000)
 - [Sivakarthikeyan Movies Collections &lpar;2012 - 2023&rpar; HD / HS / SS / AMZN /SNXT - WEB DL - H264/H265 [4k &amp; 1080p &amp; 720p] [GDRIVE &amp; Telegram] Esubs](https://www.1tamilmv.zip/index.php?/forums/topic/147468-sivakarthikeyan-movies-collections-2012-2023-hd-hs-ss-amzn-snxt-web-dl-h264h265-4k-1080p-720p-gdrive-telegram-esubs/&do=findComment&comment=350999)
 - [Dexter Complete S01 - S08 Merged 720p BluRay English x265 HEVC 10bit AAC 5.1 ESub [Google Drive]](https://www.1tamilmv.zip/index.php?/forums/topic/174507-dexter-complete-s01-s08-merged-720p-bluray-english-x265-hevc-10bit-aac-51-esub-google-drive/&do=findComment&comment=350998)
 - [Sex Education &lpar;2019&rpar; Complete S01 EP &lpar;01-08&rpar; Merged TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu + Hindi + Eng] - &lpar;DD+5.1 - 192Kbps&rpar; - 5.2GB - 2.4GB &amp; 1.2GB] - ESub [Google Drive]](https://www.1tamilmv.zip/index.php?/forums/topic/174575-sex-education-2019-complete-s01-ep-01-08-merged-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-eng-dd51-192kbps-52gb-24gb-12gb-esub-google-drive/&do=findComment&comment=350997)
