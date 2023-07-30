@@ -87,6 +87,7 @@
 </p>
 </details>
 
+
 <details  align="center">
 <summary  style="font-size:25px; color:#03989EFF">Graphics Design</summary>
 <br>
@@ -174,81 +175,82 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2040%20mins-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2058%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-269-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-219-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 2.0 MB Used in GitHub's Storage
->
-> 🏆 352 Contributions in the Year 2023
->
+> 📦 2.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 361 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
->
-> 📜 132 Public Repositories
->
-> 🔑 176 Private Repositories
->
-> **I'm an Early 🐤**
+ > 
+> 📜 134 Public Repositories 
+ > 
+> 🔑 176 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-🌆 Daytime                24347 commits       ██████████████████████░░░   89.53 %
-🌃 Evening                811 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-🌙 Night                  2003 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+🌆 Daytime                24347 commits       ██████████████████████░░░   89.50 % 
+🌃 Evening                818 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+🌙 Night                  2003 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 ```
-
-📅 **I'm Most Productive on Sunday**
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   999 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Tuesday                  401 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Wednesday                202 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Thursday                 308 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Friday                   545 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Saturday                 366 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Sunday                   24374 commits       ██████████████████████░░░   89.63 %
+Monday                   999 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Tuesday                  401 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Wednesday                202 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Thursday                 308 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Friday                   545 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Saturday                 373 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Sunday                   24374 commits       ██████████████████████░░░   89.60 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages:
-Markdown                 4 hrs 2 mins        ████████████████████░░░░░   79.39 %
-YAML                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 %
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+💬 Programming Languages: 
+Markdown                 4 hrs 42 mins       ███████████████████░░░░░░   76.09 % 
+YAML                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
-🔥 Editors:
-VS Code                  5 hrs 5 mins        █████████████████████████   100.00 %
+🔥 Editors: 
+VS Code                  6 hrs 10 mins       █████████████████████████   100.00 % 
 
-💻 Operating System:
-Windows                  5 hrs 5 mins        █████████████████████████   100.00 %
+💻 Operating System: 
+Windows                  6 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python**
+**I Mostly Code in Python** 
 
 ```text
-Python                   132 repos           █████████████████░░░░░░░░   66.33 %
-HTML                     31 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python                   132 repos           ████████████████░░░░░░░░░   66.00 % 
+HTML                     32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+JavaScript               20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CSS                      4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
-Last Updated on 29/07/2023 16:39:25 UTC
 
+ Last Updated on 30/07/2023 14:38:43 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
@@ -330,12 +332,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Jujutsu Kaisen &lpar;2023&rpar; S01 EP &lpar;01-03&rpar; TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Hindi] - 600MB &amp; 300MB]](https://www.1tamilmv.zip/index.php?/forums/topic/174582-jujutsu-kaisen-2023-s01-ep-01-03-true-web-dl-1080p-720p-avc-tamil-hindi-600mb-300mb/&do=findComment&comment=351057)
-- [Miraculous Ladybug &amp; Cat Noir, The Movie &lpar;2023&rpar; &lpar;HD + Original Audios&rpar; - [1080p &amp; 720p - AVC - &lpar;DD+5.1 - 640Kbps&rpar; &lpar;Tamil + Telugu + Hindi + Eng&rpar; - 3.2GB &amp; 1.3GB | x264 - &lpar;Tam + Tel + Hin&rpar; - 450MB] - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174559-miraculous-ladybug-cat-noir-the-movie-2023-hd-original-audios-1080p-720p-avc-dd51-640kbps-tamil-telugu-hindi-eng-32gb-13gb-x264-tam-tel-hin-450mb-esub/&do=findComment&comment=351056)
-- [Leo - Glimpse of Antony Das | Thalapathy Vijay | Lokesh Kanagaraj | Anirudh Ravichander](https://www.1tamilmv.zip/index.php?/forums/topic/174584-leo-glimpse-of-antony-das-thalapathy-vijay-lokesh-kanagaraj-anirudh-ravichander/&do=findComment&comment=351055)
-- [Enakku Innoru Per Irukku &lpar;2016&rpar; Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - &lpar;AAC.2.0&rpar; - 2.6GB - GDFlix](https://www.1tamilmv.zip/index.php?/forums/topic/174585-enakku-innoru-per-irukku-2016-tamil-true-web-dl-1080p-avc-untouched-aac20-26gb-gdflix/&do=findComment&comment=351054)
-- [49 Tamil Movies - AMZN / ITunes WEB DL UNTOUCHED H.2654/AVC DD5.1/DD2.0 ESub 250GB [Google Drive]](https://www.1tamilmv.zip/index.php?/forums/topic/142480-49-tamil-movies-amzn-itunes-web-dl-untouched-h2654avc-dd51dd20-esub-250gb-google-drive/&do=findComment&comment=351053)
+- [Awaara &lpar;2010&rpar; Telugu - DVD9 - UNTOUCHED - 480p - &lpar;DTS - 754Kbps &amp; DD5.1 - 448Kbps&rpar; - 6.7GB - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174594-awaara-2010-telugu-dvd9-untouched-480p-dts-754kbps-dd51-448kbps-67gb-esub/&do=findComment&comment=351082)
+- [Josh &lpar;2009&rpar; Telugu Amazon TRUE WEBDL - [1080p / 540p / 480p] - UNTOUCHED - AVC - [DD 2.0&lpar;224kbps&rpar; &amp; AAC] - Esubs - [10GB / 3GB / 1.6GB] - [GDrive]](https://www.1tamilmv.zip/index.php?/forums/topic/124305-josh-2009-telugu-amazon-true-webdl-1080p-540p-480p-untouched-avc-dd-20224kbps-aac-esubs-10gb-3gb-16gb-gdrive/&do=findComment&comment=351081)
+- [Shree &lpar;2002&rpar;.Tamil.1080p.Web-dl.x264.AAC2.0 - 4.3GB - USERDRIVE](https://www.1tamilmv.zip/index.php?/forums/topic/109812-shree-2002tamil1080pweb-dlx264aac20-43gb-userdrive/&do=findComment&comment=351080)
+- [Peranbu &lpar;2019&rpar; Tamil TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - &lpar;DDP.5.1&rpar; - 7.1GB - ESub - GDFlix](https://www.1tamilmv.zip/index.php?/forums/topic/174596-peranbu-2019-tamil-true-web-dl-1080p-hq-avc-untouched-ddp51-71gb-esub-gdflix/&do=findComment&comment=351079)
+- [Taramani &lpar;2017&rpar; Tamil TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - &lpar;DDP.5.1&rpar; - 5.8GB - ESub - GDFlix](https://www.1tamilmv.zip/index.php?/forums/topic/174595-taramani-2017-tamil-true-web-dl-1080p-hq-avc-untouched-ddp51-58gb-esub-gdflix/&do=findComment&comment=351078)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
