@@ -87,7 +87,6 @@
 </p>
 </details>
 
-
 <details  align="center">
 <summary  style="font-size:25px; color:#03989EFF">Graphics Design</summary>
 <br>
@@ -175,82 +174,81 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-219-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 2.0 MB Used in GitHub's Storage 
- > 
+> 📦 2.0 MB Used in GitHub's Storage
+>
 > 🏆 361 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 134 Public Repositories 
- > 
-> 🔑 176 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 134 Public Repositories
+>
+> 🔑 176 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-🌆 Daytime                24347 commits       ██████████████████████░░░   89.50 % 
-🌃 Evening                818 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-🌙 Night                  2003 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+🌆 Daytime                24347 commits       ██████████████████████░░░   89.50 %
+🌃 Evening                818 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+🌙 Night                  2003 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   999 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Tuesday                  401 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Wednesday                202 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Thursday                 308 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Friday                   545 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Saturday                 373 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Sunday                   24374 commits       ██████████████████████░░░   89.60 % 
+Monday                   999 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Tuesday                  401 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Wednesday                202 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Thursday                 308 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Friday                   545 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Saturday                 373 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Sunday                   24374 commits       ██████████████████████░░░   89.60 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Markdown                 4 hrs 42 mins       ███████████████████░░░░░░   76.09 % 
-YAML                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+💬 Programming Languages:
+Markdown                 4 hrs 42 mins       ███████████████████░░░░░░   76.09 %
+YAML                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 
-🔥 Editors: 
-VS Code                  6 hrs 10 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  6 hrs 10 mins       █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  6 hrs 10 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  6 hrs 10 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   132 repos           ████████████████░░░░░░░░░   66.00 % 
-HTML                     32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-JavaScript               20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   132 repos           ████████████████░░░░░░░░░   66.00 %
+HTML                     32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+JavaScript               20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+CSS                      4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
+Last Updated on 30/07/2023 14:38:43 UTC
 
- Last Updated on 30/07/2023 14:38:43 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
@@ -332,6 +330,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Awaara &lpar;2010&rpar; Telugu - DVD9 - UNTOUCHED - 480p - &lpar;DTS - 754Kbps &amp; DD5.1 - 448Kbps&rpar; - 6.7GB - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174594-awaara-2010-telugu-dvd9-untouched-480p-dts-754kbps-dd51-448kbps-67gb-esub/&do=findComment&comment=351082)
 - [Josh &lpar;2009&rpar; Telugu Amazon TRUE WEBDL - [1080p / 540p / 480p] - UNTOUCHED - AVC - [DD 2.0&lpar;224kbps&rpar; &amp; AAC] - Esubs - [10GB / 3GB / 1.6GB] - [GDrive]](https://www.1tamilmv.zip/index.php?/forums/topic/124305-josh-2009-telugu-amazon-true-webdl-1080p-540p-480p-untouched-avc-dd-20224kbps-aac-esubs-10gb-3gb-16gb-gdrive/&do=findComment&comment=351081)
 - [Shree &lpar;2002&rpar;.Tamil.1080p.Web-dl.x264.AAC2.0 - 4.3GB - USERDRIVE](https://www.1tamilmv.zip/index.php?/forums/topic/109812-shree-2002tamil1080pweb-dlx264aac20-43gb-userdrive/&do=findComment&comment=351080)
