@@ -33,6 +33,22 @@
 
 [![wakatime](https://wakatime.com/badge/user/fc738f08-9e9d-4e8b-a6ea-7f547f91629d.svg)](https://wakatime.com/@fc738f08-9e9d-4e8b-a6ea-7f547f91629d)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <details  align="center">
 <summary  style="font-size:30px; color:#03989EFF">Technologies and Tools</summary>
 <br>                     
