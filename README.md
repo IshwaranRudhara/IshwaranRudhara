@@ -22,7 +22,7 @@
 
 <div style='display:block; width:100%; height:100% ' >
 <div>
-<img align="left" style="width:100%" src="/assets/gif/Firepc.gif" />
+<img align="left" style="width:100%" src="./assets/gif/Firepc.gif" />
 </div>
 <div>
 <img align="right" style="width:100%" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
@@ -86,7 +86,6 @@
 <img  alt="Firebase"  src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 </p>
 </details>
-
 
 <details  align="center">
 <summary  style="font-size:25px; color:#03989EFF">Graphics Design</summary>
@@ -175,82 +174,81 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 2.0 MB Used in GitHub's Storage 
- > 
+> 📦 2.0 MB Used in GitHub's Storage
+>
 > 🏆 387 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 135 Public Repositories 
- > 
-> 🔑 176 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 135 Public Repositories
+>
+> 🔑 176 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-🌆 Daytime                24347 commits       ██████████████████████░░░   89.40 % 
-🌃 Evening                845 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-🌙 Night                  2007 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+🌆 Daytime                24347 commits       ██████████████████████░░░   89.40 %
+🌃 Evening                845 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+🌙 Night                  2007 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   1009 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Tuesday                  402 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Wednesday                202 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Thursday                 308 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Friday                   545 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Saturday                 373 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Sunday                   24394 commits       ██████████████████████░░░   89.58 % 
+Monday                   1009 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Tuesday                  402 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Wednesday                202 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Thursday                 308 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Friday                   545 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Saturday                 373 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Sunday                   24394 commits       ██████████████████████░░░   89.58 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Markdown                 3 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.37 % 
-HTML                     2 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.56 % 
-YAML                     1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-CSS                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+💬 Programming Languages:
+Markdown                 3 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.37 %
+HTML                     2 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.56 %
+YAML                     1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.30 %
+CSS                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 
-🔥 Editors: 
-VS Code                  8 hrs 5 mins        █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  8 hrs 5 mins        █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  8 hrs 5 mins        █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  8 hrs 5 mins        █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   132 repos           ████████████████░░░░░░░░░   65.67 % 
-HTML                     32 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-JavaScript               20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   132 repos           ████████████████░░░░░░░░░   65.67 %
+HTML                     32 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+JavaScript               20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
+Last Updated on 01/08/2023 17:38:18 UTC
 
- Last Updated on 01/08/2023 17:38:18 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
@@ -332,6 +330,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Ajith Kumar Movies Collections &lpar;1993 - 2023&rpar; HD / DVDRip / AP / AYN / AHA / PYD / JC / SS / AMZN /SNXT - WEB DL - H264/H265 [4k &amp; 1080p &amp; 720p] [GDRIVE &amp; Telegram] Esubs](https://www.1tamilmv.zip/index.php?/forums/topic/147473-ajith-kumar-movies-collections-1993-2023-hd-dvdrip-ap-ayn-aha-pyd-jc-ss-amzn-snxt-web-dl-h264h265-4k-1080p-720p-gdrive-telegram-esubs/&do=findComment&comment=351168)
 - [The Good, the Bad, the Weird &lpar;2008&rpar; &lpar;BluRay + Original Audios&rpar; - [1080p &amp; 720p - x264 - &lpar;Tamil + Hindi + Eng&rpar; - 2.4GB &amp; 1.4GB | x264 - &lpar;Tamil + Hindi&rpar; - 450MB] - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174600-the-good-the-bad-the-weird-2008-bluray-original-audios-1080p-720p-x264-tamil-hindi-eng-24gb-14gb-x264-tamil-hindi-450mb-esub/&do=findComment&comment=351167)
 - [Mankatha &lpar;2011&rpar; Tamil - BluRay - 1080p &amp; 720p - AVC / HEVC - DTS5.1&lpar;1510kbps&rpar; / DD+5.1&lpar;640kbps&rpar; - 8GB - 5.5GB - 2.7GB - 1.8GB - 1.4GB &amp; 950MB - x264 - 700MB - 400MB &amp; 250MB - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174617-mankatha-2011-tamil-bluray-1080p-720p-avc-hevc-dts511510kbps-dd51640kbps-8gb-55gb-27gb-18gb-14gb-950mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=351166)
