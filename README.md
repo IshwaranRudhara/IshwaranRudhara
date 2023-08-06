@@ -194,7 +194,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-179-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-178-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
@@ -267,7 +267,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2023 09:40:33 UTC
+ Last Updated on 06/08/2023 10:39:01 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
