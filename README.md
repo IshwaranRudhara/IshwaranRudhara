@@ -1,8 +1,4 @@
-
-
 <!-- ADVICE:START -->
-
-
 
 <!-- ADVICE:END -->
 
@@ -58,7 +54,14 @@
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <details  align="center">
 <summary  style="font-size:30px; color:#03989EFF">Technologies and Tools</summary>
 <br>                     
@@ -200,80 +203,79 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 2.4 MB Used in GitHub's Storage 
- > 
+> 📦 2.4 MB Used in GitHub's Storage
+>
 > 🏆 423 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 135 Public Repositories 
- > 
-> 🔑 179 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 135 Public Repositories
+>
+> 🔑 179 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-🌆 Daytime                24350 commits       ██████████████████████░░░   89.30 % 
-🌃 Evening                866 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-🌙 Night                  2017 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+🌆 Daytime                24350 commits       ██████████████████████░░░   89.30 %
+🌃 Evening                866 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+🌙 Night                  2017 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   1015 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Tuesday                  406 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Wednesday                205 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Thursday                 310 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Friday                   552 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Saturday                 373 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Sunday                   24406 commits       ██████████████████████░░░   89.51 % 
+Monday                   1015 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Tuesday                  406 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Wednesday                205 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Thursday                 310 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Friday                   552 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Saturday                 373 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Sunday                   24406 commits       ██████████████████████░░░   89.51 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-HTML                     5 mins              ███████████████░░░░░░░░░░   58.30 % 
-JavaScript               3 mins              █████████░░░░░░░░░░░░░░░░   37.33 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+💬 Programming Languages:
+HTML                     5 mins              ███████████████░░░░░░░░░░   58.30 %
+JavaScript               3 mins              █████████░░░░░░░░░░░░░░░░   37.33 %
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 
-🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  9 mins              █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  9 mins              █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   132 repos           ████████████████░░░░░░░░░   64.71 % 
-HTML                     36 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-JavaScript               20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-CSS                      4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Python                   132 repos           ████████████████░░░░░░░░░   64.71 %
+HTML                     36 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65 %
+JavaScript               20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+CSS                      4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
+Last Updated on 25/08/2023 17:40:50 UTC
 
- Last Updated on 25/08/2023 17:40:50 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
@@ -339,6 +341,9 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ##CURRENCY EXCHANGE
 ![currencyexchange](https://raw.githubusercontent.com/IshwaranRudhara/currencyexchange/main/github-metrics.svg)
 
+##Bible Quotes
+![BibleQuotes ](https://raw.githubusercontent.com/ravana69/bible/main/github-metrics.svg)
+
 <!--
 **IshwaranRudhara/IshwaranRudhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -355,6 +360,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Pareshan &lpar;2023&rpar; Telugu TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - 3.2GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174640-pareshan-2023-telugu-true-web-dl-1080p-720p-avc-hevc-32gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=351242)
 - [Fatafati &lpar;2023&rpar; TRUE WEB-DL - [1080p &amp; 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.8GB &amp; 1.4GB] - [x264 - 750MB - 400MB] - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174641-fatafati-2023-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-28gb-14gb-x264-750mb-400mb-esub/&do=findComment&comment=351239)
 - [Angels &amp; Demons &lpar;2009&rpar; &lpar;BluRay + Original Audios&rpar; - [1080p &amp; 720p - x264 - &lpar;DD+5.1 - 640Kbps&rpar; - &lpar;Tamil + Telugu + Hindi + Eng&rpar; - 3.6GB &amp; 1.3GB | x264 - &lpar;Tamil + Telugu + Hindi&rpar; - 450MB] - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174636-angels-demons-2009-bluray-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-36gb-13gb-x264-tamil-telugu-hindi-450mb-esub/&do=findComment&comment=351238)
