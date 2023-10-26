@@ -203,11 +203,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -233,9 +233,9 @@
 
 ```text
 Monday                   1020 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Tuesday                  408 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Tuesday                  406 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 Wednesday                216 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Thursday                 311 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Thursday                 313 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 Friday                   552 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 Saturday                 375 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 Sunday                   24406 commits       ██████████████████████░░░   89.44 % 
@@ -264,7 +264,7 @@ Windows                  1 hr 22 mins        ███████████�
 
 ```text
 Python                   132 repos           ████████████████░░░░░░░░░   64.39 % 
-HTML                     37 repos            █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+HTML                     36 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 JavaScript               20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
@@ -277,7 +277,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2023 15:41:40 UTC
+ Last Updated on 26/10/2023 18:40:10 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
