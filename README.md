@@ -203,7 +203,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -213,7 +213,7 @@
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 466 Contributions in the Year 2023
+> 🏆 468 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -225,8 +225,8 @@
 
 ```text
 🌞 Morning                34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-🌆 Daytime                24360 commits       ██████████████████████░░░   89.21 % 
-🌃 Evening                878 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+🌆 Daytime                24360 commits       ██████████████████████░░░   89.20 % 
+🌃 Evening                880 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 🌙 Night                  2034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -235,7 +235,7 @@
 Monday                   1021 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 Tuesday                  406 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 Wednesday                218 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Thursday                 314 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Thursday                 316 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 Friday                   555 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 Saturday                 385 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 Sunday                   24407 commits       ██████████████████████░░░   89.38 % 
@@ -278,7 +278,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2023 16:51:05 UTC
+ Last Updated on 30/11/2023 17:40:27 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
