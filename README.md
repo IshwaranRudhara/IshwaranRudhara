@@ -12,9 +12,7 @@
 
 <!-- WORK FLOWS  -->
 
-<div  style="width:100%;">
-
-![Metrics]()
+![Metrics](/github-metrics.svg)
 
 </div>
 <!-- work flow ends -->
