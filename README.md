@@ -198,7 +198,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
@@ -243,17 +243,17 @@ Sunday                   24407 commits       ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   39.64 % 
-HTML                     1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   35.87 % 
-Markdown                 38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+CSS                      55 mins             █████████░░░░░░░░░░░░░░░░   35.94 % 
+HTML                     54 mins             █████████░░░░░░░░░░░░░░░░   35.74 % 
+Markdown                 39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -273,7 +273,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 18:42:12 UTC
+ Last Updated on 17/12/2023 19:38:04 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
