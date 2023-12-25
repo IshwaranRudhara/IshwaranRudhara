@@ -198,7 +198,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
@@ -208,7 +208,7 @@
 
 > 📦 4.2 MB Used in GitHub's Storage 
  > 
-> 🏆 494 Contributions in the Year 2023
+> 🏆 495 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -220,14 +220,14 @@
 
 ```text
 🌞 Morning                36 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-🌆 Daytime                24364 commits       ██████████████████████░░░   89.15 % 
-🌃 Evening                895 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+🌆 Daytime                24364 commits       ██████████████████████░░░   89.14 % 
+🌃 Evening                896 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 🌙 Night                  2035 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1023 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Monday                   1024 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 Tuesday                  405 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 Wednesday                221 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 Thursday                 317 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
@@ -273,7 +273,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2023 16:45:10 UTC
+ Last Updated on 25/12/2023 17:38:04 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
