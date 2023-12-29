@@ -200,7 +200,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
@@ -261,8 +261,8 @@ Windows                  2 hrs 47 mins       ███████████�
 ```text
 Python                   132 repos           ████████████████░░░░░░░░░   63.46 % 
 HTML                     37 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-JavaScript               22 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JavaScript               21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+CSS                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
@@ -273,7 +273,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2023 16:44:14 UTC
+ Last Updated on 29/12/2023 17:38:10 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
