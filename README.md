@@ -198,31 +198,31 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.3 MB Used in GitHub's Storage 
  > 
-> 🏆 495 Contributions in the Year 2023
+> 🏆 500 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 138 Public Repositories 
  > 
-> 🔑 181 Private Repositories 
+> 🔑 182 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                36 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-🌆 Daytime                24364 commits       ██████████████████████░░░   89.14 % 
-🌃 Evening                896 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-🌙 Night                  2035 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+🌆 Daytime                24364 commits       ██████████████████████░░░   89.13 % 
+🌃 Evening                900 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+🌙 Night                  2035 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -231,9 +231,9 @@ Monday                   1024 commits        █░░░░░░░░░░�
 Tuesday                  405 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 Wednesday                221 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 Thursday                 317 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Friday                   562 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Friday                   566 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 Saturday                 391 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Sunday                   24411 commits       ██████████████████████░░░   89.32 % 
+Sunday                   24411 commits       ██████████████████████░░░   89.30 % 
 ```
 
 
@@ -259,10 +259,10 @@ Windows                  2 hrs 47 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   132 repos           ████████████████░░░░░░░░░   63.77 % 
-HTML                     37 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-JavaScript               21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Python                   132 repos           ████████████████░░░░░░░░░   63.46 % 
+HTML                     37 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+JavaScript               22 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
@@ -273,7 +273,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2023 14:41:04 UTC
+ Last Updated on 29/12/2023 15:39:24 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
