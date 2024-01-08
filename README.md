@@ -155,11 +155,19 @@
 </p>
 </details>
 
-# 📊 GitHub Stats:
+## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ishwaranrudhara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishwaranrudhara&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwaranrudhara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IshwaranRudhara&show_icons=true&theme=dark" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IshwaranRudhara&theme=dark&hide_border=true" />
+</p>
+
+## 🔝 Languages Stats
+
+<p align="center">
+<img alt="most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Makwana&layout=compact&theme=dark&langs_count=10" />
+<img alt="wakatime_languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ishwaran&layout=compact&theme=dark&langs_count=10" />
+</p>
 
 ## 🏆 GitHub Trophies
 
@@ -198,81 +206,80 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 4.6 MB Used in GitHub's Storage 
- > 
+> 📦 4.6 MB Used in GitHub's Storage
+>
 > 🏆 26 Contributions in the Year 2024
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 139 Public Repositories 
- > 
-> 🔑 185 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 139 Public Repositories
+>
+> 🔑 185 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                41 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-🌆 Daytime                24373 commits       ██████████████████████░░░   89.05 % 
-🌃 Evening                920 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-🌙 Night                  2035 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+🌞 Morning                41 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+🌆 Daytime                24373 commits       ██████████████████████░░░   89.05 %
+🌃 Evening                920 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+🌙 Night                  2035 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   1026 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Tuesday                  418 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Wednesday                221 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Thursday                 325 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Friday                   576 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Saturday                 391 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Sunday                   24412 commits       ██████████████████████░░░   89.20 % 
+Monday                   1026 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Tuesday                  418 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Wednesday                221 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Thursday                 325 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Friday                   576 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Saturday                 391 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Sunday                   24412 commits       ██████████████████████░░░   89.20 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-HTML                     54 mins             ███████████████░░░░░░░░░░   60.46 % 
-CSS                      31 mins             █████████░░░░░░░░░░░░░░░░   35.05 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+💬 Programming Languages:
+HTML                     54 mins             ███████████████░░░░░░░░░░   60.46 %
+CSS                      31 mins             █████████░░░░░░░░░░░░░░░░   35.05 %
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 
-🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  1 hr 30 mins        █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   132 repos           ████████████████░░░░░░░░░   62.56 % 
-HTML                     37 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-JavaScript               24 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-CSS                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Python                   132 repos           ████████████████░░░░░░░░░   62.56 %
+HTML                     37 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.54 %
+JavaScript               24 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+CSS                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
+Last Updated on 08/01/2024 17:42:10 UTC
 
- Last Updated on 08/01/2024 17:42:10 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
