@@ -216,8 +216,6 @@
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 140 Public Repositories 
@@ -281,7 +279,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2024 11:40:54 UTC
+ Last Updated on 09/01/2024 13:49:30 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
