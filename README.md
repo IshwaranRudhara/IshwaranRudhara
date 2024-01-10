@@ -366,12 +366,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Pareshan &lpar;2023&rpar; Telugu TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - 3.2GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174640-pareshan-2023-telugu-true-web-dl-1080p-720p-avc-hevc-32gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=351242)
-- [Fatafati &lpar;2023&rpar; TRUE WEB-DL - [1080p &amp; 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.8GB &amp; 1.4GB] - [x264 - 750MB - 400MB] - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174641-fatafati-2023-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-28gb-14gb-x264-750mb-400mb-esub/&do=findComment&comment=351239)
-- [Angels &amp; Demons &lpar;2009&rpar; &lpar;BluRay + Original Audios&rpar; - [1080p &amp; 720p - x264 - &lpar;DD+5.1 - 640Kbps&rpar; - &lpar;Tamil + Telugu + Hindi + Eng&rpar; - 3.6GB &amp; 1.3GB | x264 - &lpar;Tamil + Telugu + Hindi&rpar; - 450MB] - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174636-angels-demons-2009-bluray-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-36gb-13gb-x264-tamil-telugu-hindi-450mb-esub/&do=findComment&comment=351238)
-- [Pareshan &lpar;2023&rpar; Telugu TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - 3.2GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174640-pareshan-2023-telugu-true-web-dl-1080p-720p-avc-hevc-32gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=351237)
-- [Pareshan &lpar;2023&rpar; TRUE WEB-DL - [1080p &amp; 720p - AVC - [Tamil + Hindi + Malayalam + Kannada] - 2.8GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.zip/index.php?/forums/topic/174639-pareshan-2023-true-web-dl-1080p-720p-avc-tamil-hindi-malayalam-kannada-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=351236)
+- [Vaaranam Aayiram &lpar;2008&rpar; Tamil UNTOUCHED - HEVC - 1080p - DD2.0 - 1.9GB](https://www.1tamilmv.im/index.php?/forums/topic/177243-vaaranam-aayiram-2008-tamil-untouched-hevc-1080p-dd20-19gb/&do=findComment&comment=359133)
+- [City Lights and Love Strikes | Taylor Swift Music Video](https://www.1tamilmv.im/index.php?/forums/topic/150711-city-lights-and-love-strikes-taylor-swift-music-video/&do=findComment&comment=359132)
+- [Avatar 3: The Seed Bearer - First Official Trailer | 20th Century Studios | Disney+](https://www.1tamilmv.im/index.php?/forums/topic/150700-avatar-3-the-seed-bearer-first-official-trailer-20th-century-studios-disney/&do=findComment&comment=359131)
+- [The Twilight Saga: Eternal Dawn - First Trailer | Kristen Stewart, Robert Pattinson, Taylor Lautner](https://www.1tamilmv.im/index.php?/forums/topic/150699-the-twilight-saga-eternal-dawn-first-trailer-kristen-stewart-robert-pattinson-taylor-lautner/&do=findComment&comment=359130)
+- [Journey 3 From the Earth to the Moon &lpar;2024&rpar; Official Ai Trailer | Warner Bros. Pictures](https://www.1tamilmv.im/index.php?/forums/topic/150718-journey-3-from-the-earth-to-the-moon-2024-official-ai-trailer-warner-bros-pictures/&do=findComment&comment=359129)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
