@@ -206,9 +206,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
@@ -216,7 +216,7 @@
 
 > 📦 5.0 MB Used in GitHub's Storage 
  > 
-> 🏆 414 Contributions in the Year 2024
+> 🏆 417 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -228,7 +228,7 @@
 
 ```text
 🌞 Morning                124 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-🌆 Daytime                24474 commits       ██████████████████████░░░   88.10 % 
+🌆 Daytime                24476 commits       ██████████████████████░░░   88.10 % 
 🌃 Evening                1036 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 🌙 Night                  2145 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 ```
@@ -238,7 +238,7 @@
 Monday                   1079 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 Tuesday                  473 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 Wednesday                291 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Thursday                 392 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Thursday                 394 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 Friday                   642 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 Saturday                 442 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 Sunday                   24460 commits       ██████████████████████░░░   88.05 % 
@@ -279,7 +279,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2024 11:38:12 UTC
+ Last Updated on 25/01/2024 12:59:33 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
