@@ -206,7 +206,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -216,7 +216,7 @@
 
 > 📦 7.1 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 2,449 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -230,13 +230,13 @@
 🌞 Morning                585 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 🌆 Daytime                25016 commits       █████████████████████░░░░   83.70 % 
 🌃 Evening                1594 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-🌙 Night                  2692 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+🌙 Night                  2693 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   1372 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Tuesday                  768 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Tuesday                  769 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 Wednesday                573 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 Thursday                 696 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 Friday                   944 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
@@ -251,13 +251,13 @@ Sunday                   24771 commits       ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 hrs 31 mins       █████████████████████████   100.00 % 
+Other                    6 hrs 13 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     5 hrs 31 mins       █████████████████████████   100.00 % 
+Edge                     6 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -277,7 +277,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2024 18:42:20 UTC
+ Last Updated on 22/04/2024 19:42:02 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
