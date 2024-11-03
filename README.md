@@ -155,6 +155,10 @@
 </p>
 </details>
 
+## 🔝 Live
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/295054060904775694)](https://discord.com/users/295054060904775694)
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -206,78 +210,77 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=9400D3&multiline=true&width=1500&height=20&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 7.5 MB Used in GitHub's Storage 
- > 
+> 📦 7.5 MB Used in GitHub's Storage
+>
 > 🏆 2,910 Contributions in the Year 2024
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 144 Public Repositories 
- > 
-> 🔑 187 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 144 Public Repositories
+>
+> 🔑 187 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                686 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-🌆 Daytime                25135 commits       █████████████████████░░░░   82.82 % 
-🌃 Evening                1712 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-🌙 Night                  2815 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+🌞 Morning                686 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+🌆 Daytime                25135 commits       █████████████████████░░░░   82.82 %
+🌃 Evening                1712 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+🌙 Night                  2815 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   1418 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Tuesday                  837 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Wednesday                643 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Thursday                 768 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Friday                   1012 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Saturday                 832 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Sunday                   24838 commits       ████████████████████░░░░░   81.84 % 
+Monday                   1418 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Tuesday                  837 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Wednesday                643 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Thursday                 768 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Friday                   1012 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Saturday                 832 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Sunday                   24838 commits       ████████████████████░░░░░   81.84 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Other                    13 hrs 3 mins       █████████████████████████   100.00 % 
+💬 Programming Languages:
+Other                    13 hrs 3 mins       █████████████████████████   100.00 %
 
-🔥 Editors: 
-Edge                     13 hrs 3 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+Edge                     13 hrs 3 mins       █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  13 hrs 3 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-HTML                     37 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-JavaScript               25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-CSS                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+HTML                     37 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.29 %
+JavaScript               25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+CSS                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IshwaranRudhara/IshwaranRudhara/main/assets/bar_graph.png)
 
+Last Updated on 12/05/2024 17:38:44 UTC
 
- Last Updated on 12/05/2024 17:38:44 UTC
 <!--END_SECTION:waka-->
 
 ```javascript
@@ -362,6 +365,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Captain Miller &lpar;2024&rpar; Tamil SNXT WEB DL - H264/H265 - DDP5.1 - [4K, 1080p &amp; 720p - 12.4GB - 3.6GB - 2.5GB - 1.5GB] [GDRive]](https://www.1tamilmv.world/index.php?/forums/topic/128037-captain-miller-2024-tamil-snxt-web-dl-h264h265-ddp51-4k-1080p-720p-124gb-36gb-25gb-15gb-gdrive/&do=findComment&comment=360751)
 - [Guntur Kaaram &lpar;2024&rpar; WEB-DL - 1080p - x264 - [Multi Audio] - [Hindi + Tamil + Telugu] &lpar;DD+5.1 - 640Kbps&rpar; - ESub - 8.1GB](https://www.1tamilmv.world/index.php?/forums/topic/177804-guntur-kaaram-2024-web-dl-1080p-x264-multi-audio-hindi-tamil-telugu-dd51-640kbps-esub-81gb/&do=findComment&comment=360750)
 - [Lal Salaam &lpar;2024&rpar; Tamil HQ PreDVD - [1080p &amp; 720p - x264 - 2.6GB - 1.4GB &amp; 900MB | x264 - 700MB - 400MB &amp; 250MB] - HQ Clean Audio](https://www.1tamilmv.world/index.php?/forums/topic/177792-lal-salaam-2024-tamil-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&do=findComment&comment=360749)
