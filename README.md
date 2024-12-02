@@ -365,11 +365,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Pushpa The Rise &lpar;2021&rpar; Tamil TRUE WEB-DL - [4K,1080p &amp; 720p - AVC / HEVC - &lpar;DD+5.1 - 640Kbps&rpar; - 20GB - 3.3GB - 1.9GB &amp; 1.7GB] - [x264 - 700MB - 400MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184396-pushpa-the-rise-2021-tamil-true-web-dl-4k1080p-720p-avc-hevc-dd51-640kbps-20gb-33gb-19gb-17gb-x264-700mb-400mb-esub/&do=findComment&comment=376145)
 - [Kanguva &lpar;2024&rpar; Telugu TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;AAC 2.0&rpar; - 4.8GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184382-kanguva-2024-telugu-true-web-dl-1080p-720p-avc-hevc-aac-20-48gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=376144)
 - [Bagman &lpar;2024&rpar; &lpar;HD + Original Audios&rpar; - [1080p &amp; 720p - x264 - &lpar;DD+5.1 - 640Kbps&rpar; - &lpar;Tamil + Telugu + Hindi + Eng&rpar; - 2.4GB &amp; 1.4GB | x264 - &lpar;Tamil + Telugu + Hindi&rpar; - 450MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184395-bagman-2024-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/&do=findComment&comment=376143)
 - [Kanguva &lpar;2024&rpar; Telugu TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;AAC 2.0&rpar; - 4.8GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184382-kanguva-2024-telugu-true-web-dl-1080p-720p-avc-hevc-aac-20-48gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=376142)
 - [Karataka Damanaka &lpar;2024&rpar; TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;DD+5.1 - 640Kbps&rpar; - [Telugu + Hindi] - 6GB - 2.6GB &amp; 1.4GB] - [x264 - 750MB &amp; 450MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184394-karataka-damanaka-2024-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-telugu-hindi-6gb-26gb-14gb-x264-750mb-450mb-esub/&do=findComment&comment=376141)
-- [Kanguva &lpar;2024&rpar; Telugu TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;AAC 2.0&rpar; - 4.8GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184382-kanguva-2024-telugu-true-web-dl-1080p-720p-avc-hevc-aac-20-48gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=376140)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
