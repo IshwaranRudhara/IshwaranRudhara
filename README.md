@@ -365,11 +365,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [DC&#39;s Legends of Tomorrow &lpar;2016&rpar; S01 EP&lpar;01-06&rpar; BluRay - [1080p &amp; 720p - x264 - [Tamil + Eng] - &lpar;AAC 2.0&rpar; - 450MB - 250MB &amp; 120MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184213-dcs-legends-of-tomorrow-2016-s01-ep01-06-bluray-1080p-720p-x264-tamil-eng-aac-20-450mb-250mb-120mb-esub/&do=findComment&comment=376148)
 - [Mangalam &lpar;2024&rpar; Tamil WEB-DL - [1080p &amp; 720p - AVC - &lpar;AAC 5.1&rpar; - 2.3GB &amp; 1.2GB] - [x264 - 700MB - 400MB &amp; 250MB]](https://www.1tamilmv.su/index.php?/forums/topic/184398-mangalam-2024-tamil-web-dl-1080p-720p-avc-aac-51-23gb-12gb-x264-700mb-400mb-250mb/&do=findComment&comment=376147)
 - [Udvegam &lpar;2024&rpar; Telugu HQ PreDVD - [1080p &amp; 720p - x264 - 2.6GB - 1.4GB &amp; 900MB | x264 - 700MB - 400MB] - HQ Clean Audio](https://www.1tamilmv.su/index.php?/forums/topic/184397-udvegam-2024-telugu-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-hq-clean-audio/&do=findComment&comment=376146)
 - [Pushpa The Rise &lpar;2021&rpar; Tamil TRUE WEB-DL - [4K,1080p &amp; 720p - AVC / HEVC - &lpar;DD+5.1 - 640Kbps&rpar; - 20GB - 3.3GB - 1.9GB &amp; 1.7GB] - [x264 - 700MB - 400MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184396-pushpa-the-rise-2021-tamil-true-web-dl-4k1080p-720p-avc-hevc-dd51-640kbps-20gb-33gb-19gb-17gb-x264-700mb-400mb-esub/&do=findComment&comment=376145)
 - [Kanguva &lpar;2024&rpar; Telugu TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;AAC 2.0&rpar; - 4.8GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184382-kanguva-2024-telugu-true-web-dl-1080p-720p-avc-hevc-aac-20-48gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=376144)
-- [Bagman &lpar;2024&rpar; &lpar;HD + Original Audios&rpar; - [1080p &amp; 720p - x264 - &lpar;DD+5.1 - 640Kbps&rpar; - &lpar;Tamil + Telugu + Hindi + Eng&rpar; - 2.4GB &amp; 1.4GB | x264 - &lpar;Tamil + Telugu + Hindi&rpar; - 450MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184395-bagman-2024-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/&do=findComment&comment=376143)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
