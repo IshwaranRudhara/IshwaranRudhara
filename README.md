@@ -365,11 +365,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Kanguva &lpar;2024&rpar; Tamil TRUE HQ HDRip - x264 - AAC - [1080p &amp; 720p - 4.8GB - 2.7GB - 1.5GB]](https://www.1tamilmv.su/index.php?/forums/topic/108772-kanguva-2024-tamil-true-hq-hdrip-x264-aac-1080p-720p-48gb-27gb-15gb/&do=findComment&comment=376131)
 - [Kanguva &lpar;2024&rpar;.Tamil.1080p.Ai Upscaled.x264.DD+5.1 Upmixed + AAC2.0 - 7GB + 1080p HEVC AAC5.1 - 2.5GB](https://www.1tamilmv.su/index.php?/forums/topic/184391-kanguva-2024tamil1080pai-upscaledx264dd51-upmixed-aac20-7gb-1080p-hevc-aac51-25gb/&do=findComment&comment=376130)
 - [No.Longer.Allowed.in.Another.World.S01 [日本語, English, हिंदी, தமிழ், తెలుగు] 1080p.CR.WEB-DL.MULTi.AAC2.0 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184388-nolongerallowedinanotherworlds01-%E6%97%A5%E6%9C%AC%E8%AA%9E-english-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B1%81%E0%B0%97%E0%B1%81-1080pcrweb-dlmultiaac20-gdrive/&do=findComment&comment=376129)
 - [Raja Rani &lpar;2013&rpar; Tamil BluRay - [1080p &amp; 720p - AVC / HEVC - &lpar;DTS 5.1 - 1509Kbps + DD+5.1 - 640Kbps + AAC 2.0&rpar; - 15.5GB + Rips] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184374-raja-rani-2013-tamil-bluray-1080p-720p-avc-hevc-dts-51-1509kbps-dd51-640kbps-aac-20-155gb-rips-esub/&do=findComment&comment=376128)
 - [Raja Rani &lpar;2013&rpar; Tamil BluRay - [1080p &amp; 720p - AVC / HEVC - &lpar;DTS 5.1 - 1509Kbps + DD+5.1 - 640Kbps + AAC 2.0&rpar; - 15.5GB + Rips] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184374-raja-rani-2013-tamil-bluray-1080p-720p-avc-hevc-dts-51-1509kbps-dd51-640kbps-aac-20-155gb-rips-esub/&do=findComment&comment=376127)
-- [Kanguva &lpar;2024&rpar; Tamil TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;AAC 2.0&rpar; - 4.8GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184366-kanguva-2024-tamil-true-web-dl-1080p-720p-avc-hevc-aac-20-48gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=376126)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
