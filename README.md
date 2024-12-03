@@ -365,11 +365,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Poove Unakkaga &lpar;1996&rpar; Tamil HD DVDRip - 1080p - AVC - &lpar;AAC.2.0&rpar; - 2.6GB - GDFlix - [Thalapathy 9]](https://www.1tamilmv.su/index.php?/forums/topic/184415-poove-unakkaga-1996-tamil-hd-dvdrip-1080p-avc-aac20-26gb-gdflix-thalapathy-9/&do=findComment&comment=376226)
+- [Dark Side &lpar;2024&rpar; Telugu TRUE WEB-DL - [1080p &amp; 720p - AVC - &lpar;AAC 2.0&rpar; - 2.5GB &amp; 1.4GB] - [x264 - 600MB &amp; 300MB]](https://www.1tamilmv.su/index.php?/forums/topic/184424-dark-side-2024-telugu-true-web-dl-1080p-720p-avc-aac-20-25gb-14gb-x264-600mb-300mb/&do=findComment&comment=376225)
+- [Vampires: Los Muertos &lpar;2002&rpar; &lpar;BluRay + Original Audios&rpar; - [1080p &amp; 720p - x264 - &lpar;AAC 2.0&rpar; - &lpar;Tamil + Hindi + Eng&rpar; - 1.8GB &amp; 1GB | x264 - &lpar;Tamil + Hindi&rpar; - 400MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184421-vampires-los-muertos-2002-bluray-original-audios-1080p-720p-x264-aac-20-tamil-hindi-eng-18gb-1gb-x264-tamil-hindi-400mb-esub/&do=findComment&comment=376224)
 - [Joker.Folie.a.Deux.2024.1080p.BluRay.REMUX.AVC.TrueHD.Atmos.7.1 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184427-jokerfolieadeux20241080pblurayremuxavctruehdatmos71-gdrive/&do=findComment&comment=376223)
 - [Jujutsu Kaisen S02 1080p BluRay [Hindi DDP 2.0 + English AAC 2.0 + Japanese FLAC 2.0]  [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184426-jujutsu-kaisen-s02-1080p-bluray-hindi-ddp-20-english-aac-20-japanese-flac-20-gdrive/&do=findComment&comment=376222)
-- [Never Let Go &lpar;2024&rpar; 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD 7.1 Atmos] [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184425-never-let-go-2024-1080p-bluray-remux-avc-hindi-ddp-51-english-truehd-71-atmos-gdrive/&do=findComment&comment=376221)
-- [King Arthur Legend of the Sword &lpar;2017&rpar; &lpar;BluRay + Original Audios&rpar; - [1080p &amp; 720p - x264 - &lpar;AAC 2.0&rpar; - &lpar;Tamil + Eng&rpar; - 2GB - 1GB &amp; 400MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184289-king-arthur-legend-of-the-sword-2017-bluray-original-audios-1080p-720p-x264-aac-20-tamil-eng-2gb-1gb-400mb-esub/&do=findComment&comment=376220)
-- [No.Longer.Allowed.in.Another.World.S01 [日本語, English, हिंदी, தமிழ், తెలుగు] 1080p.CR.WEB-DL.MULTi.AAC2.0 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184388-nolongerallowedinanotherworlds01-%E6%97%A5%E6%9C%AC%E8%AA%9E-english-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B1%81%E0%B0%97%E0%B1%81-1080pcrweb-dlmultiaac20-gdrive/&do=findComment&comment=376219)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
