@@ -365,11 +365,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kutty &lpar;2010&rpar; 1080p SNXT WEB-DL DDP5.1 Esubs x264 - 5.7 GB](https://www.1tamilmv.su/index.php?/forums/topic/184410-kutty-2010-1080p-snxt-web-dl-ddp51-esubs-x264-57-gb/&do=findComment&comment=376167)
-- [Pushpa: The Rise &lpar;2021&rpar; Telugu &lpar;Original Version&rpar; TRUE WEB-DL - [4K ,1080p &amp; 720p - AVC / HEVC - &lpar;DD+5.1 - 640Kbps&rpar; - 6GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/153912-pushpa-the-rise-2021-telugu-original-version-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=376166)
-- [Bigg Boss S08 EP93 - DAY 92 - A Battle for the Second Spot - [1080p - 720p &amp; 360p] DSNP WEB-DL x264 [Telugu &lpar;AAC 2.0 - 61kbps&rpar;] - 1GB - 500MB &amp; 200MB](https://www.1tamilmv.su/index.php?/forums/topic/184409-bigg-boss-s08-ep93-day-92-a-battle-for-the-second-spot-1080p-720p-360p-dsnp-web-dl-x264-telugu-aac-20-61kbps-1gb-500mb-200mb/&do=findComment&comment=376165)
-- [🔞Taras Episode 02 - Tamil ULLU WEB-DL - [1080p - 720p &amp; 480p- AVC - &lpar;AAC 2.0&rpar; - 400MB - 200MB &amp; 100MB] - x264](https://www.1tamilmv.su/index.php?/forums/topic/184408-%F0%9F%94%9Etaras-episode-02-tamil-ullu-web-dl-1080p-720p-480p-avc-aac-20-400mb-200mb-100mb-x264/&do=findComment&comment=376164)
-- [Venom : The Last Dance &lpar;2024&rpar; Hindi WEB-DL - [1080p &amp; 720p - x264 - &lpar;AAC 2.0&rpar; - 2.6GB - 1.2GB &amp; 400MB]](https://www.1tamilmv.su/index.php?/forums/topic/184407-venom-the-last-dance-2024-hindi-web-dl-1080p-720p-x264-aac-20-26gb-12gb-400mb/&do=findComment&comment=376163)
+- [Venom : The Last Dance &lpar;2024&rpar; Hindi WEB-DL - [1080p &amp; 720p - x264 - &lpar;AAC 2.0&rpar; - 2.6GB - 1.2GB &amp; 400MB]](https://www.1tamilmv.su/index.php?/forums/topic/184407-venom-the-last-dance-2024-hindi-web-dl-1080p-720p-x264-aac-20-26gb-12gb-400mb/&do=findComment&comment=376175)
+- [Venom : The Last Dance &lpar;2024&rpar; Hindi WEB-DL - [1080p &amp; 720p - x264 - &lpar;AAC 2.0&rpar; - 2.6GB - 1.2GB &amp; 400MB]](https://www.1tamilmv.su/index.php?/forums/topic/184407-venom-the-last-dance-2024-hindi-web-dl-1080p-720p-x264-aac-20-26gb-12gb-400mb/&do=findComment&comment=376174)
+- [Chhota Bheem.Anime.Pack.Multi. [Telugu, Tamil , Hindi, English] 1080p.NF.WeB.DL.AVC.AAC.2.0 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184414-chhota-bheemanimepackmulti-telugu-tamil-hindi-english-1080pnfwebdlavcaac20-gdrive/&do=findComment&comment=376173)
+- [Vikkatakavi &lpar;2024&rpar; Complete S01 EP &lpar;01-06&rpar; Merged TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu] - &lpar;AAC 2.0&rpar; - 4GB - 2GB &amp; 1GB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184413-vikkatakavi-2024-complete-s01-ep-01-06-merged-true-web-dl-1080p-720p-avc-tamil-telugu-aac-20-4gb-2gb-1gb-esub/&do=findComment&comment=376172)
+- [Pushpa The Rise &lpar;2021&rpar; Malayalam TRUE WEB-DL - [4K,1080p &amp; 720p - AVC / HEVC - &lpar;DD+5.1 - 640Kbps&rpar; [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184412-pushpa-the-rise-2021-malayalam-true-web-dl-4k1080p-720p-avc-hevc-dd51-640kbps-gdrive/&do=findComment&comment=376171)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
