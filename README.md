@@ -365,11 +365,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
-- [That Christmas &lpar;2024&rpar; &lpar;HD + Original Audios&rpar; - [1080p &amp; 720p - x264 - &lpar;DD+5.1 - 640Kbps&rpar; - &lpar;Tamil + Telugu + Hindi + Eng&rpar; - 2.9GB &amp; 950MB | x264 - &lpar;Tamil + Telugu + Hindi&rpar; - 450MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184441-that-christmas-2024-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-29gb-950mb-x264-tamil-telugu-hindi-450mb-esub/&do=findComment&comment=376271)
-- [WILDFIRE Making of #Pushpa2TheRule | Allu Arjun | Sukumar | Rashmika Mandanna | Fahadh Faasil | DSP](https://www.1tamilmv.su/index.php?/forums/topic/184442-wildfire-making-of-pushpa2therule-allu-arjun-sukumar-rashmika-mandanna-fahadh-faasil-dsp/&do=findComment&comment=376270)
-- [Siruthai &lpar;2011&rpar; Tamil - BluRay - 1080p &amp; 720p - AVC - DTS5.1&lpar;1509kbps&rpar; - 14GB - 5.5GB - 2.7GB &amp; 1.4GB - x264 - 700MB &amp; 400MB - ESub [GDrive]](https://www.1tamilmv.su/index.php?/forums/topic/184429-siruthai-2011-tamil-bluray-1080p-720p-avc-dts511509kbps-14gb-55gb-27gb-14gb-x264-700mb-400mb-esub-gdrive/&do=findComment&comment=376269)
-- [Devara Part 1 &lpar;2024&rpar; - Video Songs - 2160p - HEVC - WEBDL - Multi DDP5.1 [Tam+Tel+Hin+Kan+Mal] - Esub](https://www.1tamilmv.su/index.php?/forums/topic/184417-devara-part-1-2024-video-songs-2160p-hevc-webdl-multi-ddp51-tamtelhinkanmal-esub/&do=findComment&comment=376268)
-- [That Christmas &lpar;2024&rpar; &lpar;HD + Original Audios&rpar; - [1080p &amp; 720p - x264 - &lpar;DD+5.1 - 640Kbps&rpar; - &lpar;Tamil + Telugu + Hindi + Eng&rpar; - 2.9GB &amp; 950MB | x264 - &lpar;Tamil + Telugu + Hindi&rpar; - 450MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184441-that-christmas-2024-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-29gb-950mb-x264-tamil-telugu-hindi-450mb-esub/&do=findComment&comment=376267)
+- [Justice.League.2017 [Hindi, English ].1080p, 720p .NF.WEB-DL.DDP5.1 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184445-justiceleague2017-hindi-english%C2%A01080p-720p-nfweb-dlddp51-gdrive/&do=findComment&comment=376278)
+- [Man.of.Steel.2013. [Hindi, English ] 1080p, 720p .NF.WEB-DL.DDP5.1 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184447-manofsteel2013-hindi-english%C2%A0-1080p-720p-nfweb-dlddp51-gdrive/&do=findComment&comment=376277)
+- [Batman.v.Superman.Dawn.of.Justice.2016.[Hindi, English ] 1080p, 720p .NF.WEB-DL.DDP5.1 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184446-batmanvsupermandawnofjustice2016hindi-english%C2%A0-1080p-720p-nfweb-dlddp51-gdrive/&do=findComment&comment=376276)
+- [Justice.League.2017 [Hindi, English ].1080p, 720p .NF.WEB-DL.DDP5.1 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184445-justiceleague2017-hindi-english%C2%A01080p-720p-nfweb-dlddp51-gdrive/&do=findComment&comment=376275)
+- [The Trunk &lpar;2024&rpar; S01Complete 2160p NF WEB-DL DV HDR [Hindi DDP5.1 + English DDP5.1 + Korean DDPA5.1] [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184444-the-trunk-2024-s01complete-2160p-nf-web-dl-dv-hdr-hindi-ddp51-english-ddp51-korean-ddpa51-gdrive/&do=findComment&comment=376274)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
