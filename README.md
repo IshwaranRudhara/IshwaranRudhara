@@ -365,11 +365,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🔞Taras Episode 04 - Tamil ULLU WEB-DL - [1080p - 720p &amp; 480p- AVC - &lpar;AAC 2.0&rpar; - 550MB - 300MB &amp; 150MB] - x264](https://www.1tamilmv.su/index.php?/forums/topic/184431-%F0%9F%94%9Etaras-episode-04-tamil-ullu-web-dl-1080p-720p-480p-avc-aac-20-550mb-300mb-150mb-x264/&do=findComment&comment=376231)
+- [Bigg Boss S08 EP94 - DAY 93 - Vote Appeal - [1080p - 720p &amp; 360p] DSNP WEB-DL x264 [Telugu &lpar;AAC 2.0 - 61kbps&rpar;] - 1.1GB - 600MB &amp; 200MB](https://www.1tamilmv.su/index.php?/forums/topic/184430-bigg-boss-s08-ep94-day-93-vote-appeal-1080p-720p-360p-dsnp-web-dl-x264-telugu-aac-20-61kbps-11gb-600mb-200mb/&do=findComment&comment=376230)
 - [Siruthai &lpar;2011&rpar; Tamil - BluRay - 1080p &amp; 720p - AVC - DTS5.1&lpar;1509kbps&rpar; - 14GB - 5.5GB - 2.7GB &amp; 1.4GB - x264 - 700MB &amp; 400MB - ESub [GDrive]](https://www.1tamilmv.su/index.php?/forums/topic/184429-siruthai-2011-tamil-bluray-1080p-720p-avc-dts511509kbps-14gb-55gb-27gb-14gb-x264-700mb-400mb-esub-gdrive/&do=findComment&comment=376229)
 - [🔞Taras Episode 03 - Tamil ULLU WEB-DL - [1080p - 720p &amp; 480p- AVC - &lpar;AAC 2.0&rpar; - 400MB - 200MB &amp; 100MB] - x264](https://www.1tamilmv.su/index.php?/forums/topic/184428-%F0%9F%94%9Etaras-episode-03-tamil-ullu-web-dl-1080p-720p-480p-avc-aac-20-400mb-200mb-100mb-x264/&do=findComment&comment=376228)
 - [Swaag &lpar;2024&rpar; Tamil TRUE WEB-DL - [4K,1080p &amp; 720p - AVC / HEVC - &lpar;DD+5.1 - 640Kbps&rpar; - 17.2GB - 3.1GB - 1.6GB &amp; 950MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184313-swaag-2024-tamil-true-web-dl-4k1080p-720p-avc-hevc-dd51-640kbps-172gb-31gb-16gb-950mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=376227)
-- [Poove Unakkaga &lpar;1996&rpar; Tamil HD DVDRip - 1080p - AVC - &lpar;AAC.2.0&rpar; - 2.6GB - GDFlix - [Thalapathy 9]](https://www.1tamilmv.su/index.php?/forums/topic/184415-poove-unakkaga-1996-tamil-hd-dvdrip-1080p-avc-aac20-26gb-gdflix-thalapathy-9/&do=findComment&comment=376226)
-- [Dark Side &lpar;2024&rpar; Telugu TRUE WEB-DL - [1080p &amp; 720p - AVC - &lpar;AAC 2.0&rpar; - 2.5GB &amp; 1.4GB] - [x264 - 600MB &amp; 300MB]](https://www.1tamilmv.su/index.php?/forums/topic/184424-dark-side-2024-telugu-true-web-dl-1080p-720p-avc-aac-20-25gb-14gb-x264-600mb-300mb/&do=findComment&comment=376225)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
