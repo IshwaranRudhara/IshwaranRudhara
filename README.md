@@ -365,11 +365,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Kanguva &lpar;2024&rpar; Telugu TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;AAC 2.0&rpar; - 4.8GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184382-kanguva-2024-telugu-true-web-dl-1080p-720p-avc-hevc-aac-20-48gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=376237)
+- [Bumblebee.2018. [Telugu, Tamil, Hindi, English] 1080p.NF.WEB-DL.MULTI.DDP5.1.Atmos [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184436-bumblebee2018-telugu-tamil-hindi-english-1080pnfweb-dlmultiddp51atmos-gdrive/&do=findComment&comment=376236)
+- [Cellar Door &lpar;2024&rpar; 2160p, 1080p  WEB-DL DV HDR [Hindi DDP 5.1 + English DDP5.1] [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184435-cellar-door-2024-2160p-1080p-web-dl-dv-hdr-hindi-ddp-51-english-ddp51-gdrive/&do=findComment&comment=376235)
+- [Glory &lpar;1989&rpar; 2160p UHD BluRay HYBRID REMUX DV HDR [Hindi DDP 5.1 + English TrueHD Atmos 7.1] [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184434-glory-1989-2160p-uhd-bluray-hybrid-remux-dv-hdr-hindi-ddp-51-english-truehd-atmos-71-gdrive/&do=findComment&comment=376234)
 - [Karataka Damanaka &lpar;2024&rpar; 1080p AMZN WEB-DL MULTI DDP5.1 Esubs x264 - 12.3 GB](https://www.1tamilmv.su/index.php?/forums/topic/184433-karataka-damanaka-2024-1080p-amzn-web-dl-multi-ddp51-esubs-x264-123-gb/&do=findComment&comment=376233)
-- [Joker: Folie a Deux &lpar;2024&rpar; 1080p BluRay REMUX TrueHD Atmos.7.1 Esubs x264 - 26.3 GB](https://www.1tamilmv.su/index.php?/forums/topic/184432-joker-folie-a-deux-2024-1080p-bluray-remux-truehd-atmos71-esubs-x264-263-gb/&do=findComment&comment=376232)
-- [🔞Taras Episode 04 - Tamil ULLU WEB-DL - [1080p - 720p &amp; 480p- AVC - &lpar;AAC 2.0&rpar; - 550MB - 300MB &amp; 150MB] - x264](https://www.1tamilmv.su/index.php?/forums/topic/184431-%F0%9F%94%9Etaras-episode-04-tamil-ullu-web-dl-1080p-720p-480p-avc-aac-20-550mb-300mb-150mb-x264/&do=findComment&comment=376231)
-- [Bigg Boss S08 EP94 - DAY 93 - Vote Appeal - [1080p - 720p &amp; 360p] DSNP WEB-DL x264 [Telugu &lpar;AAC 2.0 - 61kbps&rpar;] - 1.1GB - 600MB &amp; 200MB](https://www.1tamilmv.su/index.php?/forums/topic/184430-bigg-boss-s08-ep94-day-93-vote-appeal-1080p-720p-360p-dsnp-web-dl-x264-telugu-aac-20-61kbps-11gb-600mb-200mb/&do=findComment&comment=376230)
-- [Siruthai &lpar;2011&rpar; Tamil - BluRay - 1080p &amp; 720p - AVC - DTS5.1&lpar;1509kbps&rpar; - 14GB - 5.5GB - 2.7GB &amp; 1.4GB - x264 - 700MB &amp; 400MB - ESub [GDrive]](https://www.1tamilmv.su/index.php?/forums/topic/184429-siruthai-2011-tamil-bluray-1080p-720p-avc-dts511509kbps-14gb-55gb-27gb-14gb-x264-700mb-400mb-esub-gdrive/&do=findComment&comment=376229)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
