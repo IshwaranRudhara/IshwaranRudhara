@@ -365,11 +365,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Aalavandhan &lpar;2001&rpar; Tamil TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;DD+5.1 - 640Kbps&rpar; - 9GB - 2.4GB - 1.8GB &amp; 1.5GB] - [x264 - 700MB - 400MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184443-aalavandhan-2001-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-9gb-24gb-18gb-15gb-x264-700mb-400mb-esub/&do=findComment&comment=376280)
+- [Kanguva &lpar;2024&rpar; Telugu TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;AAC 2.0&rpar; - 4.8GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184382-kanguva-2024-telugu-true-web-dl-1080p-720p-avc-hevc-aac-20-48gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=376279)
 - [Justice.League.2017 [Hindi, English ].1080p, 720p .NF.WEB-DL.DDP5.1 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184445-justiceleague2017-hindi-english%C2%A01080p-720p-nfweb-dlddp51-gdrive/&do=findComment&comment=376278)
 - [Man.of.Steel.2013. [Hindi, English ] 1080p, 720p .NF.WEB-DL.DDP5.1 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184447-manofsteel2013-hindi-english%C2%A0-1080p-720p-nfweb-dlddp51-gdrive/&do=findComment&comment=376277)
 - [Batman.v.Superman.Dawn.of.Justice.2016.[Hindi, English ] 1080p, 720p .NF.WEB-DL.DDP5.1 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184446-batmanvsupermandawnofjustice2016hindi-english%C2%A0-1080p-720p-nfweb-dlddp51-gdrive/&do=findComment&comment=376276)
-- [Justice.League.2017 [Hindi, English ].1080p, 720p .NF.WEB-DL.DDP5.1 [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184445-justiceleague2017-hindi-english%C2%A01080p-720p-nfweb-dlddp51-gdrive/&do=findComment&comment=376275)
-- [The Trunk &lpar;2024&rpar; S01Complete 2160p NF WEB-DL DV HDR [Hindi DDP5.1 + English DDP5.1 + Korean DDPA5.1] [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184444-the-trunk-2024-s01complete-2160p-nf-web-dl-dv-hdr-hindi-ddp51-english-ddp51-korean-ddpa51-gdrive/&do=findComment&comment=376274)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
