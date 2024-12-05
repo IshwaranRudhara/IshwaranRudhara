@@ -365,11 +365,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Pushpa 2: The Rule &lpar;2024&rpar; - Telugu HQ PreDVD - [1080p &amp; 720p - x264 - 2GB &amp; 1GB | x264 - 700MB - 400MB &amp; 250MB] - HQ Clean Audio](https://www.1tamilmv.su/index.php?/forums/topic/184468-pushpa-2-the-rule-2024-telugu-hq-predvd-1080p-720p-x264-2gb-1gb-x264-700mb-400mb-250mb-hq-clean-audio/&do=findComment&comment=376329)
+- [Pushpa 2: The Rule &lpar;2024&rpar; - Telugu HQ PreDVD - [1080p &amp; 720p - x264 - 2GB &amp; 1GB | x264 - 700MB - 400MB &amp; 250MB] - HQ Clean Audio](https://www.1tamilmv.su/index.php?/forums/topic/184468-pushpa-2-the-rule-2024-telugu-hq-predvd-1080p-720p-x264-2gb-1gb-x264-700mb-400mb-250mb-hq-clean-audio/&do=findComment&comment=376328)
+- [Pushpa 2: The Rule &lpar;2024&rpar; - Telugu HQ PreDVD - [1080p &amp; 720p - x264 - 2GB &amp; 1GB | x264 - 700MB - 400MB &amp; 250MB] - HQ Clean Audio](https://www.1tamilmv.su/index.php?/forums/topic/184468-pushpa-2-the-rule-2024-telugu-hq-predvd-1080p-720p-x264-2gb-1gb-x264-700mb-400mb-250mb-hq-clean-audio/&do=findComment&comment=376327)
 - [Loki &lpar;2023&rpar; S02 [E01 - E06 ] 2160p UHD BluRay 10bit HEVC DV HDR [Hindi DDP 5.1 + English TrueHD Atmos 7.1] [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184474-loki-2023-s02-e01-e06-2160p-uhd-bluray-10bit-hevc-dv-hdr-hindi-ddp-51-english-truehd-atmos-71-gdrive/&do=findComment&comment=376326)
 - [Amaran &lpar;2024&rpar; NF WEB-DL - H264/H265 - [Tamil + Telugu + Malayalam + Kannada + Hindi] - DDP5.1 &lpar;640kbps&rpar; - [1080p &amp; 720p - 9.6GB - 5.7GB - 3GB - 1.7GB] [GDrive]](https://www.1tamilmv.su/index.php?/forums/topic/124792-amaran-2024-nf-web-dl-h264h265-tamil-telugu-malayalam-kannada-hindi-ddp51-640kbps-1080p-720p-96gb-57gb-3gb-17gb-gdrive/&do=findComment&comment=376325)
-- [Amaran &lpar;2024&rpar; [Tamil + Telugu + Hindi + Malayalam + Hindi + Kannada]  TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;DD+5.1 - 640Kbps&rpar; [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184473-amaran-2024-tamil-telugu-hindi-malayalam-hindi-kannada-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-gdrive/&do=findComment&comment=376324)
-- [Matka &lpar;2024&rpar; TRUE WEB-DL - [2160p, 1080p &amp; 720p - AVC - &lpar;DD+5.1 - 640Kbps&rpar; - [Hindi + Malayalam + Kannada] [Gdrive]](https://www.1tamilmv.su/index.php?/forums/topic/184472-matka-2024-true-web-dl-2160p-1080p-720p-avc-dd51-640kbps-hindi-malayalam-kannada-gdrive/&do=findComment&comment=376323)
-- [Pushpa 2: The Rule &lpar;2024&rpar; - Telugu HQ PreDVD - [1080p &amp; 720p - x264 - 2GB &amp; 1GB | x264 - 700MB - 400MB &amp; 250MB] - HQ Clean Audio](https://www.1tamilmv.su/index.php?/forums/topic/184468-pushpa-2-the-rule-2024-telugu-hq-predvd-1080p-720p-x264-2gb-1gb-x264-700mb-400mb-250mb-hq-clean-audio/&do=findComment&comment=376322)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
