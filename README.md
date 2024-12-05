@@ -365,11 +365,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Pushpa 2: The Rule &lpar;2024&rpar; Malayalam HQ PreDVD - [1080p &amp; 720p - x264 - 2GB &amp; 1GB | x264 - 700MB - 400MB &amp; 250MB] - HQ Clean Audio](https://www.1tamilmv.su/index.php?/forums/topic/184476-pushpa-2-the-rule-2024-malayalam-hq-predvd-1080p-720p-x264-2gb-1gb-x264-700mb-400mb-250mb-hq-clean-audio/&do=findComment&comment=376351)
+- [Amaran &lpar;2024&rpar; Tamil TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;DD+5.1 - 640Kbps&rpar; - 6GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184451-amaran-2024-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=376350)
 - [Pushpa 2: The Rule &lpar;2024&rpar; - Tamil HQ PreDVD - [1080p &amp; 720p - x264 - 2GB &amp; 1GB | x264 - 700MB - 400MB &amp; 250MB] - HQ Clean Audio](https://www.1tamilmv.su/index.php?/forums/topic/184467-pushpa-2-the-rule-2024-tamil-hq-predvd-1080p-720p-x264-2gb-1gb-x264-700mb-400mb-250mb-hq-clean-audio/&do=findComment&comment=376349)
 - [Pushpa 2: The Rule &lpar;2024&rpar; - Tamil HQ PreDVD - [1080p &amp; 720p - x264 - 2GB &amp; 1GB | x264 - 700MB - 400MB &amp; 250MB] - HQ Clean Audio](https://www.1tamilmv.su/index.php?/forums/topic/184467-pushpa-2-the-rule-2024-tamil-hq-predvd-1080p-720p-x264-2gb-1gb-x264-700mb-400mb-250mb-hq-clean-audio/&do=findComment&comment=376348)
 - [Pushpa 2: The Rule &lpar;2024&rpar; - Tamil HQ PreDVD - [1080p &amp; 720p - x264 - 2GB &amp; 1GB | x264 - 700MB - 400MB &amp; 250MB] - HQ Clean Audio](https://www.1tamilmv.su/index.php?/forums/topic/184467-pushpa-2-the-rule-2024-tamil-hq-predvd-1080p-720p-x264-2gb-1gb-x264-700mb-400mb-250mb-hq-clean-audio/&do=findComment&comment=376347)
-- [Afraid &lpar;2024&rpar; &lpar;HD + Original Audios&rpar; - [1080p &amp; 720p - x264 - &lpar;DD+5.1 - 640Kbps&rpar; - &lpar;Tamil + Hindi + Eng&rpar; - 2.9GB &amp; 950MB | x264 - &lpar;Tamil + Hindi&rpar; - 450MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184449-afraid-2024-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-hindi-eng-29gb-950mb-x264-tamil-hindi-450mb-esub/&do=findComment&comment=376346)
-- [Matka &lpar;2024&rpar; Tamil TRUE WEB-DL - [1080p &amp; 720p - AVC / HEVC - &lpar;DD+5.1 - 640Kbps&rpar; - 6GB - 2.6GB - 1.4GB &amp; 850MB] - [x264 - 700MB - 400MB &amp; 250MB] - ESub](https://www.1tamilmv.su/index.php?/forums/topic/184455-matka-2024-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&do=findComment&comment=376345)
 <!-- BLOG-POST-LIST:END -->
 
 # Moon Animation
